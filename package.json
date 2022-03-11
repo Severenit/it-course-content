@@ -1,0 +1,23 @@
+{
+  "name": "it-course-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Severenit/it-course-content.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Severenit/it-course-content/issues"
+  },
+  "homepage": "https://github.com/Severenit/it-course-content#readme",
+  "dependencies": {
+    "node-fetch": "2.6.7"
+  }
+}

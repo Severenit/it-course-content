@@ -1,5 +1,6 @@
 const path = require('path');
 const fs = require('fs');
+const fetch = require('node-fetch');
 
 const pathCourse = path.resolve(__dirname, '..', 'course');
 console.log(pathCourse);
@@ -25,9 +26,20 @@ const readDir = async (pathDir, cb) => {
 
 readDir(pathCourse, (course) => {
   Object.entries(course).forEach(item => {
-    fs.readFile(path.resolve(item[1], 'main.json'), 'utf8', (error, content) => {
-      console.log('####: c', item[0]);
-      console.log('####: c', content);
+    fs.readFile(path.resolve(item[1], 'main.json'), 'utf8', async (error, content) => {
+      const res = fetch(`https://it-course-84ddd-default-rtdb.firebaseio.com/contents/course/${item[0]}.json`, {
+        method: 'PUT',
+        body: content
+      })
+    });
+
+    fs.readFile(path.resolve(item[1], 'plan.json'), 'utf8', async (error, content) => {
+      const res = fetch(`https://it-course-84ddd-default-rtdb.firebaseio.com/contents/course/${item[0]}.json`, {
+        method: 'PATCH',
+        body: JSON.stringify({
+          plan: JSON.parse(content)
+        })
+      })
     })
   })
 });

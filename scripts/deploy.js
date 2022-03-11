@@ -24,17 +24,28 @@ const readDir = async (pathDir, cb) => {
   });
 }
 
+async function readFile(path) {
+  return new Promise((resolve, reject) => {
+    fs.readFile(path, 'utf8', function (err, data) {
+      if (err) {
+        reject(err);
+      }
+      resolve(data);
+    });
+  });
+}
+
 readDir(pathCourse, (course) => {
-  Object.entries(course).forEach(item => {
-    fs.readFile(path.resolve(item[1], 'main.json'), 'utf8', async (error, content) => {
-      const res = fetch(`https://it-course-84ddd-default-rtdb.firebaseio.com/contents/course/${item[0]}.json`, {
+  Object.entries(course).forEach(async (item) => {
+    await fs.readFile(path.resolve(item[1], 'main.json'), 'utf8', async (error, content) => {
+      const res = await fetch(`https://it-course-84ddd-default-rtdb.firebaseio.com/contents/course/${item[0]}.json`, {
         method: 'PUT',
         body: content
       })
     });
 
-    fs.readFile(path.resolve(item[1], 'plan.json'), 'utf8', async (error, content) => {
-      const res = fetch(`https://it-course-84ddd-default-rtdb.firebaseio.com/contents/course/${item[0]}.json`, {
+    await fs.readFile(path.resolve(item[1], 'plan.json'), 'utf8', async (error, content) => {
+      const res = await fetch(`https://it-course-84ddd-default-rtdb.firebaseio.com/contents/course/${item[0]}.json`, {
         method: 'PATCH',
         body: JSON.stringify({
           plan: JSON.parse(content)

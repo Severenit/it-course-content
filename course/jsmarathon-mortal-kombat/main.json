@@ -2,5 +2,6 @@
   "title": "Mortal Kombat #JSMarathon",
   "description": "От основ до файтинг игры на чистом JS.",
   "free": true,
-  "cover": "https://it-course.online/static/jsmarathon-mortal-kombat.png"
+  "cover": "https://it-course.online/static/jsmarathon-mortal-kombat.gif",
+  "tariff": "basic"
 }

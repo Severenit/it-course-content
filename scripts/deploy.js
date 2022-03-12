@@ -41,17 +41,17 @@ readDir(pathCourse, (course) => {
       const res = await fetch(`https://it-course-84ddd-default-rtdb.firebaseio.com/contents/course/${item[0]}.json`, {
         method: 'PUT',
         body: content
-      })
-    });
-
-    await fs.readFile(path.resolve(item[1], 'plan.json'), 'utf8', async (error, content) => {
-      const res = await fetch(`https://it-course-84ddd-default-rtdb.firebaseio.com/contents/course/${item[0]}.json`, {
-        method: 'PATCH',
-        body: JSON.stringify({
-          plan: JSON.parse(content)
+      }).then(async () => {
+        await fs.readFile(path.resolve(item[1], 'plan.json'), 'utf8', async (error, content) => {
+          const res = await fetch(`https://it-course-84ddd-default-rtdb.firebaseio.com/contents/course/${item[0]}.json`, {
+            method: 'PATCH',
+            body: JSON.stringify({
+              plan: JSON.parse(content)
+            })
+          })
         })
       })
-    })
+    });
   })
 });
 

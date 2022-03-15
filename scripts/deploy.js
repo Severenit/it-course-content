@@ -40,9 +40,9 @@ readDir(pathCourse, (course) => {
     await fs.readFile(path.resolve(item[1], 'main.json'), 'utf8', async (error, content) => {
       await fetch(`https://it-course-84ddd-default-rtdb.firebaseio.com/breadcrumbs/${item[0]}.json`, {
         method: 'PUT',
-        body: JSON.parse(content).title
-      }
-      const res = await fetch(`https://it-course-84ddd-default-rtdb.firebaseio.com/contents/course/${item[0]}.json`, {
+        body: JSON.stringify(JSON.parse(content).title)
+      });
+      await fetch(`https://it-course-84ddd-default-rtdb.firebaseio.com/contents/course/${item[0]}.json`, {
         method: 'PUT',
         body: content
       }).then(async () => {

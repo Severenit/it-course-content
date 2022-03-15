@@ -3,5 +3,7 @@
   "description": "От основ до файтинг игры на чистом JS.",
   "free": true,
   "cover": "https://it-course.online/static/jsmarathon-mortal-kombat.gif",
-  "tariff": "basic"
+  "tariff": "basic",
+  "author": "Zar Zakharov",
+  "rate": 5
 }

@@ -38,6 +38,12 @@ async function readFile(path) {
 readDir(pathCourse, (course) => {
   Object.entries(course).forEach(async (item) => {
     await fs.readFile(path.resolve(item[1], 'main.json'), 'utf8', async (error, content) => {
+      await fetch(`https://it-course-84ddd-default-rtdb.firebaseio.com/breadcrumbs.json`, {
+        method: 'PUT',
+        body: JSON.stringify({
+          [item[0]]: JSON.parse(content).title
+        })
+      }
       const res = await fetch(`https://it-course-84ddd-default-rtdb.firebaseio.com/contents/course/${item[0]}.json`, {
         method: 'PUT',
         body: content

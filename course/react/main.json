@@ -6,5 +6,6 @@
   "cover": "https://it-course.online/static/react-course.gif",
   "tariff": "plus",
   "startDate": "2022-04-05T11:00:00+03:00",
-  "author": "Zar Zakharov"
+  "author": "Zar Zakharov",
+  "rate": 5
 }

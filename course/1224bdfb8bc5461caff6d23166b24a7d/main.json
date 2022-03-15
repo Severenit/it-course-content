@@ -1,1 +1,8 @@
-{"id":"1224bdfb8bc5461caff6d23166b24a7d","title":"Node JS. Практический курс. (Mongo, GraphQL, MySQL, Express)","free":true,"tariff":"basic"}
+{
+  "id":"1224bdfb8bc5461caff6d23166b24a7d",
+  "title":"Node JS. Практический курс. (Mongo, GraphQL, MySQL, Express)",
+  "free":true,
+  "tariff":"basic",
+  "author": "Egor Malkevich",
+  "rate": 5
+}

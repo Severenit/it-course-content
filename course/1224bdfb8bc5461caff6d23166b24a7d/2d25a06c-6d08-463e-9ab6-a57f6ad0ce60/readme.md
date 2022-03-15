@@ -1,5 +1,5 @@
 
-[image](https://youtu.be/u0V-IuhvpQk)
+![youtube](https://youtu.be/u0V-IuhvpQk)
 
 > “Мы учимся только общаясь с другими людьми или сами с собой.”
 

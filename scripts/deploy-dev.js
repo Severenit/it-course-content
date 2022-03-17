@@ -2,10 +2,10 @@ const path = require('path');
 const fs = require('fs');
 const fetch = require('node-fetch');
 
-const DB = 'https://it-course-84ddd-default-rtdb.firebaseio.com';
+const DB = 'https://it-course-dev-default-rtdb.firebaseio.com';
 const pathCourse = path.resolve(__dirname, '..', 'course');
 
-console.log('Start Deploy to Prod');
+console.log('Start Deploy to Dev');
 const readDir = async (pathDir, cb) => {
   fs.readdir(pathDir, (err, files) => {
     const course = {};
@@ -24,11 +24,11 @@ const readDir = async (pathDir, cb) => {
       console.error(err);
     }
   });
-}
+};
 
 async function readFile(path) {
   return new Promise((resolve, reject) => {
-    fs.readFile(path, 'utf8', function (err, data) {
+    fs.readFile(path, 'utf8', function(err, data) {
       if (err) {
         reject(err);
       }
@@ -54,10 +54,10 @@ readDir(pathCourse, (course) => {
             body: JSON.stringify({
               plan: JSON.parse(content)
             })
-          })
-        })
-      })
+          });
+        });
+      });
     });
-  })
+  });
 });
 

@@ -37,13 +37,26 @@ async function readFile(path) {
   });
 }
 
-readDir(pathCourse, (course) => {
+readDir(pathCourse, async (course) => {
+  await fetch(`${DB}/breadcrumbs.json`, {
+    method: 'PUT',
+    body: JSON.stringify({
+      course: 'Главная'
+    })
+  });
+
+  await fetch(`${DB}/contents/course.json`, {
+    method: 'PUT',
+    body: JSON.stringify({})
+  });
+
   Object.entries(course).forEach(async (item) => {
     await fs.readFile(path.resolve(item[1], 'main.json'), 'utf8', async (error, content) => {
       await fetch(`${DB}/breadcrumbs/${item[0]}.json`, {
         method: 'PUT',
         body: JSON.stringify(JSON.parse(content).title)
       });
+
       await fetch(`${DB}/contents/course/${item[0]}.json`, {
         method: 'PUT',
         body: content

@@ -24,11 +24,11 @@ const readDir = async (pathDir, cb) => {
       console.error(err);
     }
   });
-}
+};
 
 async function readFile(path) {
   return new Promise((resolve, reject) => {
-    fs.readFile(path, 'utf8', function (err, data) {
+    fs.readFile(path, 'utf8', function(err, data) {
       if (err) {
         reject(err);
       }
@@ -49,13 +49,14 @@ readDir(pathCourse, async (course) => {
     method: 'PUT',
     body: JSON.stringify({})
   });
-  
+
   Object.entries(course).forEach(async (item) => {
     await fs.readFile(path.resolve(item[1], 'main.json'), 'utf8', async (error, content) => {
       await fetch(`${DB}/breadcrumbs/${item[0]}.json`, {
         method: 'PUT',
         body: JSON.stringify(JSON.parse(content).title)
       });
+
       await fetch(`${DB}/contents/course/${item[0]}.json`, {
         method: 'PUT',
         body: content
@@ -66,10 +67,9 @@ readDir(pathCourse, async (course) => {
             body: JSON.stringify({
               plan: JSON.parse(content)
             })
-          })
-        })
-      })
+          });
+        });
+      });
     });
-  })
+  });
 });
-

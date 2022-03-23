@@ -97,3 +97,7 @@ createPlayer('player2', 'SUB-ZERO', 80);
 Ну а на этом все.
 
 До встречи очень скоро...
+
+<aside>
+    Тут должен быть HTML тэг
+</aside>

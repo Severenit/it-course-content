@@ -7,12 +7,12 @@
   {
     "href": "lesson-02",
     "title": "Урок №2: Учимся работать с DOM",
-    "active": false
+    "active": true
   },
   {
     "href": "lesson-03",
     "title": "Урок №3: Начинаем писать игру",
-    "active": false
+    "active": true
   },
   {
     "href": "lesson-04",

@@ -17,31 +17,31 @@
   {
     "href": "lesson-04",
     "title": "Урок №4: Все о context-е (this)",
-    "active": false
+    "active": true
   },
   {
     "href": "lesson-05",
     "title": "Урок №5: Циклы и работа с формы из JS",
-    "active": false
+    "active": true
   },
   {
     "href": "lesson-06",
     "title": "Урок №6: Работа с датой, ещё про условные конструкции, работа с текстом и DOM",
-    "active": false
+    "active": true
   },
   {
     "href": "lesson-07",
     "title": "Урок №7: Все о всех функциях и модули",
-    "active": false
+    "active": true
   },
   {
     "href": "lesson-08",
     "title": "Урок №8: Class что это такое и как с ним работать",
-    "active": false
+    "active": true
   },
   {
     "href": "lesson-09",
     "title": "Урок №9: EventLoop и Promise",
-    "active": false
+    "active": true
   }
 ]

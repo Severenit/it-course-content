@@ -26,7 +26,7 @@
 
 Чтобы все корректно отображалось, файлик со стилями обнови на этот, целиком.
 
-[style.css.zip](HomeWork%20#%202d36a/style.css.zip)
+[style.css.zip](https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/course%2Fjsmarathon-mortal-kombat%2Fstyle.css.zip?alt=media&token=fa0b38af-c88e-425c-82c1-a50e9296dffb)
 
 Ну а теперь само задание.
 

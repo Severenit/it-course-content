@@ -2,7 +2,8 @@
   {
     "href": "discord",
     "title": "Урок №0: Знакомство с курсом и Discord тоже",
-    "active": true
+    "active": true,
+    "homework": true
   },
   {
     "href": "lesson1",

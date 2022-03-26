@@ -10,7 +10,7 @@
   https://youtu.be/mONVgmO34Fg
   Так что, перед тем как выполнить домашнее задание, посмотрите видео:
 
-![youtube](https://youtu.be/Yi8871D4ScA)
+![youtube](https://youtu.be/nUBWt8N4_6o)
 
 После каждого видео есть домашнее задание
 

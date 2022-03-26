@@ -9,7 +9,7 @@
 ![vimeo](https://vimeo.com/680080951)
 
 > #### Ссылка-приглашение в Discord❗️
-> [https://discord.gg/Ccw6sRRH](https://discord.gg/Ccw6sRRH)
+> [https://discord.gg/rbP33TR3](https://discord.gg/rbP33TR3)
 
 После того как ты попадешь в Discord зайдите в свой профиль и скопируйте имя пользователя, обычно оно указывается в формате *ИМЯ#2943*.
 

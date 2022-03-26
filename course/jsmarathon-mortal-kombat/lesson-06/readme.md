@@ -7,7 +7,7 @@
 - Array
 - DOM
 - querySelector и createElement
-
+  https://youtu.be/mONVgmO34Fg
 Так что, перед тем как выполнить домашнее задание, посмотрите видео:
 
 ![youtube](https://youtu.be/Yi8871D4ScA)

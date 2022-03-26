@@ -10,7 +10,7 @@
 
 Так что, перед тем как выполнить домашнее задание, посмотрите видео:
 
-![youtube](https://youtu.be/lz06MET6sl0)
+![youtube](https://youtu.be/mONVgmO34Fg)
 
 После каждого видео есть домашнее задание
 
@@ -43,13 +43,13 @@
 
 ```html
 <div class="player1">
-    <div class="progressbar">
-        <div class="life"></div>
-        <div class="name">SCORPION</div>
-    </div>
-    <div class="character">
-        <img src="http://reactmarathon-api.herokuapp.com/assets/scorpion.gif" />
-    </div>
+  <div class="progressbar">
+    <div class="life"></div>
+    <div class="name">SCORPION</div>
+  </div>
+  <div class="character">
+    <img src="http://reactmarathon-api.herokuapp.com/assets/scorpion.gif" />
+  </div>
 </div>
 ```
 

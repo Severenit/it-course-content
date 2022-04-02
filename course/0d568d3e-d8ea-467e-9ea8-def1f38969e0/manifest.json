@@ -6,7 +6,7 @@
       "name": "2940352_52d5.jpeg",
       "type": "file",
       "file": {
-        "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3dda93db-f665-49c3-a4eb-e66a7428e31b/2940352_52d5.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220402T122927Z&X-Amz-Expires=3600&X-Amz-Signature=e4f64b142f21b7b8b2a6860447dbd84747e315eb41fc89497a1db19c9c03b17d&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "url": "https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/2940352_52d5.jpeg?alt=media&token=1589d16b-60d5-4fe5-a2bd-5ed5aa5ba2f7",
         "expiry_time": "2022-04-02T13:29:27.330Z"
       }
     }

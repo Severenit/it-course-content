@@ -1,0 +1,142 @@
+{
+  "id": "0d568d3e-d8ea-467e-9ea8-def1f38969e0",
+  "title": "Angular 9. Теория и Практика 2020. Все включено + Бонусы",
+  "preview": [
+    {
+      "name": "2940352_52d5.jpeg",
+      "type": "file",
+      "file": {
+        "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3dda93db-f665-49c3-a4eb-e66a7428e31b/2940352_52d5.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220402T122927Z&X-Amz-Expires=3600&X-Amz-Signature=e4f64b142f21b7b8b2a6860447dbd84747e315eb41fc89497a1db19c9c03b17d&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "expiry_time": "2022-04-02T13:29:27.330Z"
+      }
+    }
+  ],
+  "description": "Полное руководство для разработки крутейших динамических приложений. От глубокой теории до практики на Angular",
+  "categories": [
+    "Angular"
+  ],
+  "status": "Done",
+  "direction": "Development",
+  "type": "Marathon",
+  "updatedAt": "2022-03-31T12:31:00.000Z",
+  "icon": {
+    "type": "file",
+    "file": {
+      "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3989af54-0a12-4217-8184-943277101ffb/AngularJS-Shield.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220402T122928Z&X-Amz-Expires=3600&X-Amz-Signature=d7e743c72747626a1388a9d4b2f752a91c0430d42d3f3b047d5aba9a16d7ba5d&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "expiry_time": "2022-04-02T13:29:28.774Z"
+    }
+  },
+  "cover": null,
+  "landing": "\n[image](https://youtu.be/u0V-IuhvpQk)\n\n**Полный цикл JavaScript-разработки (MEAN STACK)**\n\nВ рамках единого видеокурса полностью и подробно раскрыт весь цикл FullStack JavaScript-разработки на MEAN STACK: MongoDB, Express.js, Angular и Node.js\n\n**Пошаговый план действий в формате видео**\n\nВ курсе показан пошаговый план FullStack JavaScript-разработки, а также алгоритм разработки сложного FullStack-приложения на примере создания CRM-системы с нуля\n\n**Что такое FullStack-разработка**\n\nFullStack-разработка — это разработка веб-приложения полного цикла, которая включает в себя как Frontend-разработку, так и Backend-разработку.\n\nFullStack-разработчик (FullStack Developer) — это специалист, способный создать с нуля полностью готовое веб-приложение: и клиентскую (Frontend), и серверную части (Backend), а также связать их между собой.\n\n**Почему вам стоит изучить этот курс**\n\n\t**Полный цикл JavaScript-разработки (MEAN STACK)**\n\n\tВ рамках единого видеокурса полностью и подробно раскрыт весь цикл FullStack JavaScript-разработки на MEAN STACK: MongoDB, Express.js, Angular и Node.js. На момент выхода курса такого уровня материалов на русском языке просто нет\n\n\t**Самая нужная информация в сжатом виде**\n\n\tВы избавите себя от многих месяцев чтения документации по более чем 10 различным технологиям. Что самое важное, в курсе, помимо работы самих технологий, рассказывается про то, как они работают вместе. А на эту тему вы вряд ли найдете хорошую понятную документацию на русском языке. Да еще и в одном месте!\n\n\t**Наиболее передовые технологии 2018 года**\n\n\tВ курсе рассматриваются наиболее современные технологии: Node.js, MongoDB, Express.js и Angular. REST API – это тип сервера, который сейчас используется повсеместно, включая Google и Amazon. А Express.js является одним из самых востребованных Node.js-фреймворков на рынке\n\n\t**Победа в конкурентной борьбе**\n\n\tРынок переполнен разработчиками, которые выучили 1-2 фреймворка и являются узкими специалистами. Только этих знаний не хватает для нормальных заказов или работы. Чтобы уметь выполнять комплексные современные проекты с нуля, необходимо знать полный цикл разработки, и видеть картину в целом\n\n\t**Пошаговый план действий в формате видео**\n\n\tВ курсе дается четкий пошаговый план FullStack JavaScript-разработки, а также алгоритм разработки сложного FullStack-приложения на примере создания CRM-системы с нуля\n\n\t**Высокие заработки даже для новичков**\n\n\tCредний уровень зарплат на рынке труда для Junior JavaScript Developer составляет 50-80 тысяч рублей в месяц.\n\n**Приложение, которое разрабатывается в курсе**\n\nДанный курс наглядно показывает разработку СRМ-системы, где собраны разнообразные элементы, на которых показывается их реализация.\n\nНиже представлен далеко не полный перечень элементов приложения, которые разрабатываются в рамках данного курса:\n\n- Пагинация\n\n- Аналитика данных с графиками\n\n- Реализация Material Design с Materialize CSS\n\n- Работа с датами через пикеры\n\n- Фильтрация данных\n\n- Загрузка картинок\n\n- Работа с асинхронными событиями\n",
+  "aggregated": {
+    "authors": [
+      {
+        "object": "user",
+        "id": "b4364cfb-f464-4cff-8202-c214757166a7",
+        "name": "Егор Малькевич",
+        "avatar_url": "https://lh3.googleusercontent.com/a-/AAuE7mBNFfyQLJtU8jsw9OUdYdImPJF-ZvsR8Tj6BG2kodY=s100",
+        "type": "person",
+        "person": {
+          "email": "severenit@gmail.com"
+        }
+      },
+      {
+        "object": "user",
+        "id": "db0f6335-27b2-4b00-acb1-bb1414fdc13f",
+        "name": "Зар Захаров",
+        "avatar_url": "https://lh3.googleusercontent.com/a-/AAuE7mBNFfyQLJtU8jsw9OUdYdImPJF-ZvsR8Tj6BG2kodY=s100",
+        "type": "person",
+        "person": {
+          "email": "severenit@gmail.com"
+        }
+      }
+    ],
+    "skills": [
+      "React"
+    ],
+    "duration": 22
+  },
+  "content": {
+    "id": "0d568d3e-d8ea-467e-9ea8-def1f38969e0",
+    "lessons": [
+      {
+        "id": "39863426-a25d-4b7d-bdfe-ffaa75630255",
+        "order": 1,
+        "title": "MEAN. Angular, Node, Express, Mongo. Создание Сервиса с Нуля",
+        "theses": "",
+        "category": "Заключение",
+        "status": "Done",
+        "skills": [
+          "Node.js",
+          "React"
+        ],
+        "files": [],
+        "attachmentURL": null,
+        "authors": [
+          {
+            "object": "user",
+            "id": "b4364cfb-f464-4cff-8202-c214757166a7"
+          },
+          {
+            "object": "user",
+            "id": "db0f6335-27b2-4b00-acb1-bb1414fdc13f",
+            "name": "Зар Захаров",
+            "avatar_url": "https://lh3.googleusercontent.com/a-/AAuE7mBNFfyQLJtU8jsw9OUdYdImPJF-ZvsR8Tj6BG2kodY=s100",
+            "type": "person",
+            "person": {
+              "email": "severenit@gmail.com"
+            }
+          }
+        ],
+        "daysToUnlock": 22,
+        "daysToDeadline": 0,
+        "isFree": false,
+        "updatedAt": "2022-03-28T13:44:00.000Z",
+        "homeworkIds": [
+          "503f9dee-4975-4f06-9dbf-2138e81c921c"
+        ],
+        "sourceIds": []
+      },
+      {
+        "id": "1723fbde-3457-46a8-af18-16715ac37cff",
+        "order": null,
+        "title": "Архитектура приложения",
+        "theses": "",
+        "status": "Dev",
+        "skills": [],
+        "files": [],
+        "attachmentURL": null,
+        "authors": [],
+        "daysToUnlock": 0,
+        "daysToDeadline": 0,
+        "isFree": false,
+        "updatedAt": "2022-03-28T11:47:00.000Z",
+        "homeworkIds": [],
+        "sourceIds": []
+      }
+    ],
+    "homework": [
+      {
+        "id": "503f9dee-4975-4f06-9dbf-2138e81c921c",
+        "title": "Домашка по серверу",
+        "files": [],
+        "daysToDeadline": 10,
+        "skills": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        },
+        "categoriesIds": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        },
+        "lessonIds": [],
+        "updatedAt": "2022-03-28T13:44:00.000Z"
+      }
+    ],
+    "source": [],
+    "botMessages": [],
+    "streams": []
+  }
+}

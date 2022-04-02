@@ -286,7 +286,13 @@
                 "authors": [
                     {
                         "object": "user",
-                        "id": "b4364cfb-f464-4cff-8202-c214757166a7"
+                        "id": "b4364cfb-f464-4cff-8202-c214757166a7",
+                        "name": "Егор Малькевич",
+                        "avatar_url": "https://lh3.googleusercontent.com/a-/AAuE7mBNFfyQLJtU8jsw9OUdYdImPJF-ZvsR8Tj6BG2kodY=s100",
+                        "type": "person",
+                        "person": {
+                            "email": "severenit@gmail.com"
+                        }
                     },
                     {
                         "object": "user",

@@ -1,0 +1,309 @@
+[
+    {
+        "id": "6c1980bc-eba9-4428-b8b0-14467ae42670",
+        "title": "JSMarathon Mortal Kombat",
+        "preview": [
+            {
+                "name": "jsmarathon-mortal-kombat.gif",
+                "type": "file",
+                "file": {
+                    "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/371c8b58-c9e4-4984-bdfc-d92c8fe00e3a/jsmarathon-mortal-kombat.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220402T122927Z&X-Amz-Expires=3600&X-Amz-Signature=9f4927f4a876200cfefaddf3eaf603a2e0a9f324397adb206c6c1bbff37d77de&X-Amz-SignedHeaders=host&x-id=GetObject",
+                    "expiry_time": "2022-04-02T13:29:27.330Z"
+                }
+            }
+        ],
+        "description": "От основ до файтинг игры на чистом JS.",
+        "categories": [
+            "JavaScript"
+        ],
+        "status": "New",
+        "direction": "Development",
+        "type": "Marathon",
+        "updatedAt": "2022-04-01T17:08:00.000Z",
+        "content": {
+            "id": "6c1980bc-eba9-4428-b8b0-14467ae42670",
+            "icon": {
+                "type": "file",
+                "file": {
+                    "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2b87000d-270c-4bd7-b3bd-1d47285a2c9d/Untitled-10.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220402T122928Z&X-Amz-Expires=3600&X-Amz-Signature=2b91920583eb4a8c144cadae5630a7be81e90095207e03493fe9dde80c4fbc8f&X-Amz-SignedHeaders=host&x-id=GetObject",
+                    "expiry_time": "2022-04-02T13:29:28.874Z"
+                }
+            },
+            "cover": null,
+            "landing": "\n[image](https://youtu.be/u0V-IuhvpQk)\n\n> “Мы учимся только общаясь с другими людьми или сами с собой.”\n\nВ интернете уже масса полезных курсов и материалов, причем многие стремятся дать и делают хороший контент. Который все больше и больше стремится убрать диалог между преподавателем и обучаемыми. И тенденции таковы, что только 20% людей, проходящие такие курсы, получают навыки и не забрасывают их после первых двух недель.\n\nМы стремимся поменять это. И дать новые возможности в обучении, как для преподавателей, так и для студентов. [UpgradeHub.pro](http://upgradehub.pro/) — сообщество профессионального обучения.\n\n\n\n",
+            "lessons": [
+                {
+                    "id": "0c642c4d-3afd-4cfb-ad1c-ffdb4a6cec1a",
+                    "order": 2,
+                    "title": "Учимся работать с DOM",
+                    "theses": "",
+                    "skills": [],
+                    "files": [],
+                    "attachmentURL": null,
+                    "authors": [
+                        {
+                            "object": "user",
+                            "id": "db0f6335-27b2-4b00-acb1-bb1414fdc13f",
+                            "name": "Зар Захаров",
+                            "avatar_url": "https://lh3.googleusercontent.com/a-/AAuE7mBNFfyQLJtU8jsw9OUdYdImPJF-ZvsR8Tj6BG2kodY=s100",
+                            "type": "person",
+                            "person": {
+                                "email": "severenit@gmail.com"
+                            }
+                        }
+                    ],
+                    "daysToUnlock": 0,
+                    "daysToDeadline": 0,
+                    "isFree": false,
+                    "updatedAt": "2022-04-01T17:15:00.000Z",
+                    "homeworkIds": [
+                        "502b00b3-3d36-46ae-8066-8735747fb248"
+                    ],
+                    "sourceIds": [],
+                    "markdown": "\n# **Урока 2 - Учимся работать с DOM**\n\nВ этом уроке мы разберем:\n\n- Математические операторы\n\n- Function\n\n- Object\n\n- Array\n\n- DOM\n\n- querySelector и createElement\n\nТак что, перед тем как выполнить домашнее задание, посмотрите видео:\n\n[image](https://www.youtube.com/watch?v=bjnr13tSw8s)\n"
+                },
+                {
+                    "id": "280d707f-9ca5-4e1f-9156-82d90aebab1a",
+                    "order": 1,
+                    "title": "Знакомство с JS",
+                    "theses": "",
+                    "skills": [],
+                    "files": [],
+                    "attachmentURL": null,
+                    "authors": [
+                        {
+                            "object": "user",
+                            "id": "db0f6335-27b2-4b00-acb1-bb1414fdc13f",
+                            "name": "Зар Захаров",
+                            "avatar_url": "https://lh3.googleusercontent.com/a-/AAuE7mBNFfyQLJtU8jsw9OUdYdImPJF-ZvsR8Tj6BG2kodY=s100",
+                            "type": "person",
+                            "person": {
+                                "email": "severenit@gmail.com"
+                            }
+                        }
+                    ],
+                    "daysToUnlock": 0,
+                    "daysToDeadline": 0,
+                    "isFree": false,
+                    "updatedAt": "2022-04-01T17:13:00.000Z",
+                    "homeworkIds": [
+                        "903db899-3231-48f5-8025-a5febf70fd75"
+                    ],
+                    "sourceIds": [],
+                    "markdown": "\n# **Урока 1 - Знакомство с JS**\n\nВ этом уроке мы разберем:\n\n- Что такое JavaScript\n\n- Подключение JavaScript файлов\n\n- console.log() + MDN\n\n- Переменные и их объявление\n\n- Типы данных\n\n- Динамические типы данных\n\nТак что, перед тем как выполнить домашнее задание, посмотрите видео:\n\n[image](https://www.youtube.com/watch?v=lz06MET6sl0)\n"
+                }
+            ],
+            "homework": [
+                {
+                    "id": "502b00b3-3d36-46ae-8066-8735747fb248",
+                    "title": "Homework #2",
+                    "files": [],
+                    "daysToDeadline": null,
+                    "skills": {
+                        "type": "array",
+                        "array": [],
+                        "function": "show_original"
+                    },
+                    "categoriesIds": {
+                        "type": "array",
+                        "array": [],
+                        "function": "show_original"
+                    },
+                    "lessonIds": [
+                        "0c642c4d-3afd-4cfb-ad1c-ffdb4a6cec1a"
+                    ],
+                    "updatedAt": "2022-04-01T17:17:00.000Z",
+                    "markdown": "\n# **HomeWork #2**\n\nВ этом уроке мы прошли много нового, пришло время закрепить знания.\n\n💡 Все задачи я ожидаю увидеть в <b>ОДНОЙ</b> отдельной ветке под именем `homework-2` отдельным _pull request_-ом (**PR**) НЕ НУЖНО, создавать под каждую задачу новую ветку. Как сделать PR и перенести все изменения в новую ветку читайте [здесь](https://www.notion.so/GitHub-41194b6913484429b7e7c989aa477ecd)\n\n# **Task #0**\n\nСоздай два объекта с именем разных игроков, где будут поля\n\n- name - это строка;\n\n- hp - это число;\n\n- img - это строка;\n\n- weapon - это массив строк (пока можно написать любое оружие, которое вы сможете придумать, не имеет пока значение какое);\n\n- attack - это функция, внутри которой нужно поместить console.log, который будет выводить сконкатинированную строку имя вашего персонажа + fight (<имя вашего персонажа> + ‘Fight...’);\n\n# **Task #1**\n\nИтак, нужно создать функцию с именем **`createPlayer()`** ,внутри которой ты напишешь создание элемента **div** с классом **player1** (далее _**div.player1**_), внутри этого элемента есть еще два элемента _**div.progressbar**_ и _**div.character**_. Внутри _**div.progressbar**_ есть еще два дива — _**div.life**_ и _**div.name**_. Внутри _**div.character**_ есть только картинка _**img**_.\n\n- Для _**div.life**_ добавь свойство style.width в значение 100%;\n\n- Для _**div.name**_ нужно положить текст, это имя нашего героя.\n\n- Для картинки можешь взять любую ссылку из приведенных ниже.\n\nСтруктура готового HTML будет выглядеть примерно так.\n\n```html\n1<div class=\"player1\">\n    <div class=\"progressbar\">\n        <div class=\"life\"></div>\n        <div class=\"name\">SCORPION</div>\n    </div>\n    <div class=\"character\">\n        <img src=\"http://reactmarathon-api.herokuapp.com/assets/scorpion.gif\" />\n    </div>\n</div>\n```\n\n### **Ссылки для картинки**\n\n- http://reactmarathon-api.herokuapp.com/assets/scorpion.gif\n\n- http://reactmarathon-api.herokuapp.com/assets/kitana.gif\n\n- http://reactmarathon-api.herokuapp.com/assets/liukang.gif\n\n- http://reactmarathon-api.herokuapp.com/assets/sonya.gif\n\n- http://reactmarathon-api.herokuapp.com/assets/subzero.gif\n\n# **Task #2**\n\nПосле того как функция будет реализована, потребуется передать в эту функцию три аргумента. Первый аргумент — это класс первого или второго игрока, т.е. player1 или player2.\n\nВторой аргумент — имя Игрока, это может быть любое Имя.\n\nТретий аргумент — жизни, передавать надо от 0 до 100.\n\nИ дальше позвать эту функцию два раза в коде, один раз со значение player1, второй раз со значение player2.\n\nПример вызова функции выглядит так:\n\n```javascript\ncreatePlayer('player1', 'SCORPION', 50);\ncreatePlayer('player2', 'SUB-ZERO', 80);\n```\n\n### **Важно!**\n\nВ каждой функции после создания всех нужных элементов, родительский элемент нужно поместить в **div.arenas** Как это делать вы знаете, при помощи `appendChild()`\n\nТаким образом у вас в _div.arenas_ будут располагаться два дива с классом _player1_ и _player2_\n\n# **Task #3 (*)**\n\nЭто задание со звездочкой.\n\nПередай в функцию createPlayer всего лишь два аргумента, 1 аргумент это строка 'player1' или 'player2' второй аргумент — это объект твоего игрока из задания Task#0.\n\nНеобходимые поля, такие как name, hp, img вставь в нужные места в коде.\n\nНу а на этом все.\n\nДо встречи очень скоро...\n"
+                },
+                {
+                    "id": "903db899-3231-48f5-8025-a5febf70fd75",
+                    "title": "Homework #1",
+                    "files": [
+                        {
+                            "name": "MK.zip",
+                            "type": "file",
+                            "file": {
+                                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e2a9722d-25fe-4ab4-9695-028e8c8df9ca/MK.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220402T122934Z&X-Amz-Expires=3600&X-Amz-Signature=f3ad94e289a500bb9a7e1a23176f2042a2f5a71d9a6fec942132dadb5c1e8cc9&X-Amz-SignedHeaders=host&x-id=GetObject",
+                                "expiry_time": "2022-04-02T13:29:34.271Z"
+                            }
+                        }
+                    ],
+                    "daysToDeadline": null,
+                    "skills": {
+                        "type": "array",
+                        "array": [],
+                        "function": "show_original"
+                    },
+                    "categoriesIds": {
+                        "type": "array",
+                        "array": [],
+                        "function": "show_original"
+                    },
+                    "lessonIds": [
+                        "280d707f-9ca5-4e1f-9156-82d90aebab1a"
+                    ],
+                    "updatedAt": "2022-04-01T17:12:00.000Z",
+                    "markdown": "\n# **HomeWork #1**\n\n## **Project Files**\n\nДля будущего проекта тебе потребуется скачать вот это файл.\n\n> 💡 Папку **__MACOSX** которую вы можете найти в этот zip файле, нужно удалить, ее публиковать на _github_ не нужно.\n\nПосле того как скачаешь файл, создай в нем `main.js` и подключи в `index.html`.\n\nПосле этот проект нужно залить на **GitHub** и дать мне доступ. Это и есть домашнее задание.\n\nКак это сделать, смотри в соответствующем видео и читай подсказки ниже.\n\n### **GitHub**\n\nЕсли у тебя еще нет аккаунта на _GitHub_, регистрируйся по ссылке [https://github.com](https://github.com/)\n\n### **GitHub Desktop**\n\nЗдесь ты сможешь скачать **Github Desktop**\n\n[https://desktop.github.com/](https://desktop.github.com/)\n\n💡 Если привычнее пользоваться _Github_ через терминал, то делай так, как привык. Я же показываю максимально простой способ работы с _Git_ через GUI.\n\nПосле того как создашь проект и зальешь все файлы, добавь меня в Reviewers.\n\nЭто делается на странице Github в настройках проекта во вкладке **Manage access.**\n\nДобавь меня, используя почту **zarmarathon@gmail.com**\n\nНу а на этом все.\n\nДо встречи очень скоро...\n"
+                }
+            ],
+            "source": [],
+            "botMessages": [],
+            "streams": [],
+            "aggregated": {
+                "authors": [
+                    {
+                        "object": "user",
+                        "id": "db0f6335-27b2-4b00-acb1-bb1414fdc13f",
+                        "name": "Зар Захаров",
+                        "avatar_url": "https://lh3.googleusercontent.com/a-/AAuE7mBNFfyQLJtU8jsw9OUdYdImPJF-ZvsR8Tj6BG2kodY=s100",
+                        "type": "person",
+                        "person": {
+                            "email": "severenit@gmail.com"
+                        }
+                    }
+                ],
+                "skills": [],
+                "duration": 0
+            }
+        }
+    },
+    {
+        "id": "0d568d3e-d8ea-467e-9ea8-def1f38969e0",
+        "title": "Angular 9. Теория и Практика 2020. Все включено + Бонусы",
+        "preview": [
+            {
+                "name": "2940352_52d5.jpeg",
+                "type": "file",
+                "file": {
+                    "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3dda93db-f665-49c3-a4eb-e66a7428e31b/2940352_52d5.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220402T122927Z&X-Amz-Expires=3600&X-Amz-Signature=e4f64b142f21b7b8b2a6860447dbd84747e315eb41fc89497a1db19c9c03b17d&X-Amz-SignedHeaders=host&x-id=GetObject",
+                    "expiry_time": "2022-04-02T13:29:27.330Z"
+                }
+            }
+        ],
+        "description": "Полное руководство для разработки крутейших динамических приложений. От глубокой теории до практики на Angular",
+        "categories": [
+            "Angular"
+        ],
+        "status": "Done",
+        "direction": "Development",
+        "type": "Marathon",
+        "updatedAt": "2022-03-31T12:31:00.000Z",
+        "content": {
+            "id": "0d568d3e-d8ea-467e-9ea8-def1f38969e0",
+            "icon": {
+                "type": "file",
+                "file": {
+                    "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3989af54-0a12-4217-8184-943277101ffb/AngularJS-Shield.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220402T122928Z&X-Amz-Expires=3600&X-Amz-Signature=d7e743c72747626a1388a9d4b2f752a91c0430d42d3f3b047d5aba9a16d7ba5d&X-Amz-SignedHeaders=host&x-id=GetObject",
+                    "expiry_time": "2022-04-02T13:29:28.774Z"
+                }
+            },
+            "cover": null,
+            "landing": "\n[image](https://youtu.be/u0V-IuhvpQk)\n\n**Полный цикл JavaScript-разработки (MEAN STACK)**\n\nВ рамках единого видеокурса полностью и подробно раскрыт весь цикл FullStack JavaScript-разработки на MEAN STACK: MongoDB, Express.js, Angular и Node.js\n\n**Пошаговый план действий в формате видео**\n\nВ курсе показан пошаговый план FullStack JavaScript-разработки, а также алгоритм разработки сложного FullStack-приложения на примере создания CRM-системы с нуля\n\n**Что такое FullStack-разработка**\n\nFullStack-разработка — это разработка веб-приложения полного цикла, которая включает в себя как Frontend-разработку, так и Backend-разработку.\n\nFullStack-разработчик (FullStack Developer) — это специалист, способный создать с нуля полностью готовое веб-приложение: и клиентскую (Frontend), и серверную части (Backend), а также связать их между собой.\n\n**Почему вам стоит изучить этот курс**\n\n\t**Полный цикл JavaScript-разработки (MEAN STACK)**\n\n\tВ рамках единого видеокурса полностью и подробно раскрыт весь цикл FullStack JavaScript-разработки на MEAN STACK: MongoDB, Express.js, Angular и Node.js. На момент выхода курса такого уровня материалов на русском языке просто нет\n\n\t**Самая нужная информация в сжатом виде**\n\n\tВы избавите себя от многих месяцев чтения документации по более чем 10 различным технологиям. Что самое важное, в курсе, помимо работы самих технологий, рассказывается про то, как они работают вместе. А на эту тему вы вряд ли найдете хорошую понятную документацию на русском языке. Да еще и в одном месте!\n\n\t**Наиболее передовые технологии 2018 года**\n\n\tВ курсе рассматриваются наиболее современные технологии: Node.js, MongoDB, Express.js и Angular. REST API – это тип сервера, который сейчас используется повсеместно, включая Google и Amazon. А Express.js является одним из самых востребованных Node.js-фреймворков на рынке\n\n\t**Победа в конкурентной борьбе**\n\n\tРынок переполнен разработчиками, которые выучили 1-2 фреймворка и являются узкими специалистами. Только этих знаний не хватает для нормальных заказов или работы. Чтобы уметь выполнять комплексные современные проекты с нуля, необходимо знать полный цикл разработки, и видеть картину в целом\n\n\t**Пошаговый план действий в формате видео**\n\n\tВ курсе дается четкий пошаговый план FullStack JavaScript-разработки, а также алгоритм разработки сложного FullStack-приложения на примере создания CRM-системы с нуля\n\n\t**Высокие заработки даже для новичков**\n\n\tCредний уровень зарплат на рынке труда для Junior JavaScript Developer составляет 50-80 тысяч рублей в месяц.\n\n**Приложение, которое разрабатывается в курсе**\n\nДанный курс наглядно показывает разработку СRМ-системы, где собраны разнообразные элементы, на которых показывается их реализация.\n\nНиже представлен далеко не полный перечень элементов приложения, которые разрабатываются в рамках данного курса:\n\n- Пагинация\n\n- Аналитика данных с графиками\n\n- Реализация Material Design с Materialize CSS\n\n- Работа с датами через пикеры\n\n- Фильтрация данных\n\n- Загрузка картинок\n\n- Работа с асинхронными событиями\n",
+            "lessons": [
+                {
+                    "id": "39863426-a25d-4b7d-bdfe-ffaa75630255",
+                    "order": 1,
+                    "title": "MEAN. Angular, Node, Express, Mongo. Создание Сервиса с Нуля",
+                    "theses": "",
+                    "category": "Заключение",
+                    "status": "Done",
+                    "skills": [
+                        "Node.js",
+                        "React"
+                    ],
+                    "files": [],
+                    "attachmentURL": null,
+                    "authors": [
+                        {
+                            "object": "user",
+                            "id": "b4364cfb-f464-4cff-8202-c214757166a7"
+                        },
+                        {
+                            "object": "user",
+                            "id": "db0f6335-27b2-4b00-acb1-bb1414fdc13f",
+                            "name": "Зар Захаров",
+                            "avatar_url": "https://lh3.googleusercontent.com/a-/AAuE7mBNFfyQLJtU8jsw9OUdYdImPJF-ZvsR8Tj6BG2kodY=s100",
+                            "type": "person",
+                            "person": {
+                                "email": "severenit@gmail.com"
+                            }
+                        }
+                    ],
+                    "daysToUnlock": 22,
+                    "daysToDeadline": 0,
+                    "isFree": false,
+                    "updatedAt": "2022-03-28T13:44:00.000Z",
+                    "homeworkIds": [
+                        "503f9dee-4975-4f06-9dbf-2138e81c921c"
+                    ],
+                    "sourceIds": [],
+                    "markdown": "\n# What is the MEAN Stack?\n\nDevelopers have always valued the ability to build their applications on integrated stacks of foundational technology. By using a set of standardized building blocks, they can spend more time working on applications that differentiate the business, rather than gluing lots of separate components together.\n\nThe MEAN stack is JavaScript-based framework for developing web applications. MEAN is named after **M**ongoDB, **E**xpress, **A**ngular, and **N**ode, the four key technologies that make up the layers of the stack.\n\n- **M**ongoDB - document database\n\n- **E**xpress(.js) - Node.js web framework\n\n- **A**ngular(.js) - a client-side JavaScript framework\n\n- **N**ode(.js) - the premier JavaScript web server\n\nThere are variations to the MEAN stack such as [MERN](https://www.mongodb.com/mern-stack) (replacing Angular.js with React.js) and MEVN (using Vue.js). The MEAN stack is one of the most popular technology concepts for building web applications.\n\n## How Does the MEAN Stack Work?\n\n### MEAN Stack Architecture\n\nThe MEAN architecture is designed to make building web applications in JavaScript and handling JSON incredibly easy.\n\n![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c08a2123-7fec-4045-8a0a-94eea9e02067/mean-stack-0qy07j83ah.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220402T122933Z&X-Amz-Expires=3600&X-Amz-Signature=e093015d826ad02a2be7dc92c2d1cd433015eff53133d205b2c87e22cde96c99&X-Amz-SignedHeaders=host&x-id=GetObject)\n\n### MEAN Stack Components\n\n### Angular.js Front End\n\nAt the very top of the MEAN stack is Angular.js, the self-styled “A JavaScript MVW Framework” (MVW stands for “Model View and Whatever”).\n\nAngular.js allows you to extend your HTML tags with metadata in order to create dynamic, interactive web experiences much more powerfully than, say, building them yourself with static HTML and JavaScript (or jQuery).\n\nAngular has all of the bells and whistles you’d expect from a front-end JavaScript framework, including form validation, localization, and communication with your back-end service.\n\n### Express.js and Node.js Server Tier\n\nThe next level down is [Express.js](https://expressjs.com/), running on a Node.js server. Express.js calls itself a “fast, unopinionated, minimalist web framework for Node.js,” and that is indeed exactly what it is.\n\nExpress.js has powerful models for URL routing (matching an incoming URL with a server function), and handling HTTP requests and responses. By making XML HTTP requests (XHRs),r GETs, or POSTs from your Angular.js front end, you can connect to Express.js functions that power your application.\n\nThose functions in turn use MongoDB’s Node.js drivers, either via callbacks or using Promises, to access and update data in your MongoDB database.\n\n### MongoDB Database Tier\n\nIf your application stores any data (user profiles, content, comments, uploads, events, etc.), then you’re going to want a database that’s just as easy to work with as Angular, Express, and Node.\n\nThat’s where MongoDB comes in: JSON documents created in your Angular.js front end can be sent to the Express.js server, where they can be processed and (assuming they’re valid) stored directly in MongoDB for later retrieval.\n\nAgain, if you want to easily get the best of MongoDB, you’ll want to look at [MongoDB Atlas](https://www.mongodb.com/cloud/atlas). This will allow you built-in full database security and cross-cloud scalability with the click of a button. [More on that later on this page.](https://www.mongodb.com/mean-stack#using-mean-stack-with-mongodb-atlas)\n\n## Advantages of the MEAN Stack\n\nMEAN applications can be used in many ways with a cross platform write once approach. While MEAN is particularly suited to real-time applications, particularly those running natively in the cloud and single-page (dynamic) web applications built in Angular.js, it can be used for other use cases such as:\n\n- Workflow management tools.\n\n- News aggregation sites.\n\n- Todo and calendar applications.\n\n- Interactive forums.\n\nAnd much more.\n\nSince all the components are based on JavaScript and JSON, the integration between the components of the stack is intuitive and straightforward.\n\nAdditionally, the E and A of MEAN (Express and Angular) are two of the most popular and well-supported JavaScript frameworks for back-end and front-end development, respectively. Express makes routing and managing HTTP requests and responses super easy, and includes great support for middleware to handle JSON endpoints and form posts. Angular is a powerful tool for building dynamic HTML pages that communicate with a back-end server.\n\nWhether you’re building a high-throughput API, a simple web application, or a microservice, MEAN is the ideal stack for building Node.js applications.\n\nAll of the MEAN stack components are open source in nature and therefore allow a generous, free-of-charge opportunity for developers.\n\n## Disadvantages of the MEAN Stack\n\nJavaScript is a great modern language, but it wasn’t initially designed to build back-end servers. Since the foundation of the MEAN stack is JavaScript, including the back-end server, it might come with concurrency and performance problems at scale due to JavaScript nature.\n\nAdditionally, since the development opportunity is so rapid, business and server logic might suffer from poor isolation, making potential spaghetti code and bad practices a reality along the way.\n\nFinally, although there are many guides and tutorials out there, they generally will not include concrete JS coding guidelines appropriate for this stack. Therefore, something that worked really well for one application might surface issues for another.\n\n## When Can the MEAN Stack be Used?\n\nMEAN follows the traditional three-tier stack pattern, including the display tier (Angular.js), application tier (Express.js and Node.js), and database tier (MongoDB).\n\nIf you’re building a JavaScript application, particularly in Node.js, then you should give MEAN a serious look.\n\nMongoDB stores data in a JSON-like format (BSON, a binary JSON extension), the MongoDB Query Language (MQL) is defined in JSON, and its command line interface (CLI) is a JavaScript interpreter. Not only is MongoDB essentially a JavaScript/JSON data store, but it’s full of advanced features like indexing and querying deep into JSON documents, has powerful native Node.js drivers, and is designed for horizontal scale-out. It’s even easier to develop apps in the cloud using [MongoDB Atlas](https://www.mongodb.com/cloud/atlas), the cloud-native Database-as-a-Service from the creators of MongoDB.\n\nWhether you’re building a high-throughput API, a simple web application, or a microservice, MEAN is the ideal stack for building Node.js applications.\n\n## Using MEAN Stack with MongoDB Atlas\n\n[The MongoDB Node.js driver](https://docs.mongodb.com/drivers/node/current/) makes working with MongoDB from inside a Node.js script simple and intuitive for developers—saving developers time and increasing their productivity.\n\nNext, you'll need a MongoDB database. The easiest way to get started with MongoDB is to create a free cluster in [MongoDB Atlas](https://www.mongodb.com/cloud/atlas), MongoDB's fully-managed, multi-cloud document Database-as-a-Service.\n\nAtlas databases are easily deployed and scaled, providing you with a consistent URI to connect. See the [official MongoDB documentation on connecting to a cluster](https://docs.atlas.mongodb.com/connect-to-cluster/).\n\nAlong the way, Atlas connections come with built-in username/password and TLS end-to-end encryption by default. Additionally, it allows you to utilize advanced MongoDB security features such as certificate/IAM authentication, LDAP, Encryption-at-rest, and Auditing with the click of a button.\n\nMoreover, an Atlas project can utilize the [MongoDB Realm](https://www.mongodb.com/cloud/atlas/lp/realm) applications platform to easily integrate many [authentication providers](https://docs.mongodb.com/realm/authentication/) such as Google, Facebook, JWT, and custom authentication.\n\nScaling and Managing Atlas is very easy; its biggest benefit is that it supports and secures the MEAN stack's most valuable layer: the data layer.\n\n## How Secure is the MEAN Stack?\n\nWe recommend using the MEAN stack with MongoDB Atlas, since Atlas has built-in credentials, a firewall, and end-to-end encryption which is the best foundation for securing your MongoDB.\n\nAdditionally, the MEAN stack has a concrete three-tier separation which, if used with best practices and correct network isolation, should prevent your end users from having access to the business logic and moreover to your database layer. Therefore, your application is by default designed to avoid malicious user interaction from putting your application at risk (Query injection, code manipulation, port spoofing etc.).\n\n## References\n"
+                },
+                {
+                    "id": "1723fbde-3457-46a8-af18-16715ac37cff",
+                    "order": null,
+                    "title": "Архитектура приложения",
+                    "theses": "",
+                    "status": "Dev",
+                    "skills": [],
+                    "files": [],
+                    "attachmentURL": null,
+                    "authors": [],
+                    "daysToUnlock": 0,
+                    "daysToDeadline": 0,
+                    "isFree": false,
+                    "updatedAt": "2022-03-28T11:47:00.000Z",
+                    "homeworkIds": [],
+                    "sourceIds": [],
+                    "markdown": "\nasdas\n\ndas\n\nd\n\nasd\n\nas\n\nd\n\nasd\n\na\n\nsd\n\na\n\nsd\n\na\n\nsd\n\na\n\nsd\n\na\n\nsd\n"
+                }
+            ],
+            "homework": [
+                {
+                    "id": "503f9dee-4975-4f06-9dbf-2138e81c921c",
+                    "title": "Домашка по серверу",
+                    "files": [],
+                    "daysToDeadline": 10,
+                    "skills": {
+                        "type": "array",
+                        "array": [],
+                        "function": "show_original"
+                    },
+                    "categoriesIds": {
+                        "type": "array",
+                        "array": [],
+                        "function": "show_original"
+                    },
+                    "lessonIds": [],
+                    "updatedAt": "2022-03-28T13:44:00.000Z",
+                    "markdown": ""
+                }
+            ],
+            "source": [],
+            "botMessages": [],
+            "streams": [],
+            "aggregated": {
+                "authors": [
+                    {
+                        "object": "user",
+                        "id": "b4364cfb-f464-4cff-8202-c214757166a7"
+                    },
+                    {
+                        "object": "user",
+                        "id": "db0f6335-27b2-4b00-acb1-bb1414fdc13f",
+                        "name": "Зар Захаров",
+                        "avatar_url": "https://lh3.googleusercontent.com/a-/AAuE7mBNFfyQLJtU8jsw9OUdYdImPJF-ZvsR8Tj6BG2kodY=s100",
+                        "type": "person",
+                        "person": {
+                            "email": "severenit@gmail.com"
+                        }
+                    }
+                ],
+                "skills": [
+                    "React"
+                ],
+                "duration": 22
+            }
+        }
+    }
+]

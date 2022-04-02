@@ -7,7 +7,7 @@
                 "name": "jsmarathon-mortal-kombat.gif",
                 "type": "file",
                 "file": {
-                    "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/371c8b58-c9e4-4984-bdfc-d92c8fe00e3a/jsmarathon-mortal-kombat.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220402T122927Z&X-Amz-Expires=3600&X-Amz-Signature=9f4927f4a876200cfefaddf3eaf603a2e0a9f324397adb206c6c1bbff37d77de&X-Amz-SignedHeaders=host&x-id=GetObject",
+                    "url": "https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/course%2Fjsmarathon-mortal-kombat%2Fjsmarathon-mortal-kombat.gif?alt=media&token=11735fdf-688c-41ce-9506-83f236fd6f42",
                     "expiry_time": "2022-04-02T13:29:27.330Z"
                 }
             }

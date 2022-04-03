@@ -20,6 +20,7 @@
   },
   "botMessages": [
     {
+      "order": 0, //can be index inside deploy script
       "messageDelayMinutes": 0,
       "path": "./bot-messages/1-welcome/message.md",
       // optional
@@ -29,11 +30,13 @@
       // optional
     },
     {
+      "order": 1,
       "messageDelayMinutes": 15,
       "path": "./bot-messages/2-selling-one/message.md"
       // optional
     },
     {
+      "order": 2,
       "messageDelayMinutes": 30,
       "path": "./bot-messages/3-selling-three/message.md",
       // optional
@@ -66,7 +69,8 @@
       "skills": [
         "react"
       ],
-      "category": null
+      "order": 0, //can be index inside deploy script
+      "category": null,
       //optional
       "status": "Done",
       // Done / Dev / New,

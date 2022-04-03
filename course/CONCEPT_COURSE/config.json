@@ -1,0 +1,75 @@
+{
+  "title": "Теория игр",
+  "preview": "https://www.investngo.ru/wp-content/uploads/2018/04/teorija-igr.jpg",
+  "description": "Мы столкнемся со множеством ситуаций, в которых теоретико-игровой анализ помогает принимать правильные решения. Для того чтобы научиться мыслить стратегически, мы рассмотрим базовые теоретические концепции и проиллюстрируем их на разнообразных примерах. ",
+  "categories": [
+    "Game Theory"
+  ],
+  "status": "Done",
+  "direction": "Integrator",
+  "type": "Course",
+  "icon": null,
+  "cover": null,
+  "authors": [],
+  "skills": [],
+  "duration": 0,
+  "botMessages": [{
+    "messageDelayMinutes": 0,
+    "topic": "./bot-messages/1-welcome/message.md", // optional
+    "video": "./bot-messages/1-welcome/2022-04-03 13.27.53.mp4" // or/and Array [""]
+    "markdown": "" // optional
+  }, {
+    "messageDelayMinutes": 15,
+    "topic": "./bot-messages/2-selling-one/message.md", // optional
+   }, {
+    "messageDelayMinutes": 30,
+    "topic": "./bot-messages/3-selling-three/message.md", // optional
+    "video": "./bot-messages/3-selling-three/2022-04-03 13.31.53.mp4", // or/and Array [""]
+    "markdown": "" // optional
+  }],
+  "streams": [{
+    "details": "./streams/1-stream.md",
+    "markdown": "" // optional
+    "startDate": "20-12-2020 13:00",
+    "cost": 14000,
+    "isFree": true,
+    "maxCount": 30,
+    "messenger": "discord",
+    "messengerUrl": "https://asdasdasd....",
+    "group": null // optional
+  }],
+  "content": {
+    "landing": "./landing.md",
+    "lessons": [
+      {
+        "title": "React marathon",
+        "theses": "",
+        "skills": ["react"],
+        "category": null //optional
+        "status": "Done",// Done / Dev / New,
+        "url": null, // optional
+        "daysToUnlock": 0,
+        "authors": [{
+          "name": "Зар Захаров",
+          "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mBNFfyQLJtU8jsw9OUdYdImPJF-ZvsR8Tj6BG2kodY=s100",
+          "email": "severenit@gmail.com"
+        }],
+        "lesson": {
+          "lesson": "./content/1-intro/lesson.md",
+          "markdown": "" //optional
+        },
+        "homework": {
+          "homework": "./content/1-intro/homework.md",
+          "daysToDeadline": 3,
+          "files": ["https://www.investngo.ru/wp-content/uploads/2018/04/teorija-igr.jpg"],
+          "markdown": "" // optional
+        },
+        "source": {
+          "source": "./content/1-intro/source.md",
+          "files": ["https://www.investngo.ru/wp-content/uploads/2018/04/teorija-igr.jpg"],
+          "markdown": "" // optional
+        },
+      }
+    ]
+  }
+}

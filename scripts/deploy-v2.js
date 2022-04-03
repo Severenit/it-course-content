@@ -38,6 +38,15 @@ async function readFile(path) {
 }
 
 readDir(pathCourse, async (course) => {
+  // Object.entries(course).forEach(async (item) => {
+  //   console.log('####: item', item);
+  //   fs.readFile(path.resolve(item[1], 'config.json'), 'utf8', async (error, content) => {
+  //     console.log('####: content', JSON.parse(content).landing);
+  //     fs.writeFile(path.resolve(item[1], 'landing.md'), JSON.stringify(JSON.parse(content).landing.markdown), err => {
+  //       console.log('####: err', err);
+  //     });
+  //   });
+  // });
   await fetch(`${DB}/breadcrumbs.json`, {
     method: 'PUT',
     body: JSON.stringify({
@@ -49,9 +58,9 @@ readDir(pathCourse, async (course) => {
     method: 'PUT',
     body: JSON.stringify({})
   });
-
+  //
   Object.entries(course).forEach(async (item) => {
-    await fs.readFile(path.resolve(item[1], 'manifest.json'), 'utf8', async (error, content) => {
+    await fs.readFile(path.resolve(item[1], 'config.json'), 'utf8', async (error, content) => {
       await fetch(`${DB}/breadcrumbs/${item[0]}.json`, {
         method: 'PUT',
         body: JSON.stringify(JSON.parse(content).title)

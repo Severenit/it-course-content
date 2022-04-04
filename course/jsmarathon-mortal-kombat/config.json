@@ -5,10 +5,7 @@
     {
       "name": "jsmarathon-mortal-kombat.gif",
       "type": "file",
-      "file": {
-        "url": "https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/course%2Fjsmarathon-mortal-kombat%2Fjsmarathon-mortal-kombat.gif?alt=media&token=11735fdf-688c-41ce-9506-83f236fd6f42",
-        "expiry_time": "2022-04-02T13:29:27.330Z"
-      }
+      "file": "https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/course%2Fjsmarathon-mortal-kombat%2Fjsmarathon-mortal-kombat.gif?alt=media&token=11735fdf-688c-41ce-9506-83f236fd6f42"
     }
   ],
   "description": "От основ до файтинг игры на чистом JS.",
@@ -91,16 +88,6 @@
             }
           ],
           "daysToDeadline": null,
-          "skills": {
-            "type": "array",
-            "array": [],
-            "function": "show_original"
-          },
-          "categoriesIds": {
-            "type": "array",
-            "array": [],
-            "function": "show_original"
-          },
           "updatedAt": "2022-04-01T17:12:00.000Z"
         }
       ],

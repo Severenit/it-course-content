@@ -1,0 +1,227 @@
+{
+  "id": "jsmarathon-mortal-kombat-copy",
+  "title": "JSMarathon Mortal Kombat",
+  "preview": [
+    {
+      "name": "jsmarathon-mortal-kombat.gif",
+      "type": "file",
+      "file": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/course%2Fjsmarathon-mortal-kombat%2Fjsmarathon-mortal-kombat.gif?alt=media&token=11735fdf-688c-41ce-9506-83f236fd6f42",
+        "expiry_time": "2022-04-02T13:29:27.330Z"
+      }
+    }
+  ],
+  "description": "От основ до файтинг игры на чистом JS.",
+  "categories": [
+    "JavaScript"
+  ],
+  "status": "New",
+  "direction": "Development",
+  "type": "Marathon",
+  "updatedAt": "2022-04-01T17:08:00.000Z",
+  "icon": {
+    "type": "file",
+    "file": {
+      "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2b87000d-270c-4bd7-b3bd-1d47285a2c9d/Untitled-10.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220402T122928Z&X-Amz-Expires=3600&X-Amz-Signature=2b91920583eb4a8c144cadae5630a7be81e90095207e03493fe9dde80c4fbc8f&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "expiry_time": "2022-04-02T13:29:28.874Z"
+    }
+  },
+  "cover": null,
+  "aggregated": {
+    "authors": [
+      {
+        "object": "user",
+        "id": "db0f6335-27b2-4b00-acb1-bb1414fdc13f",
+        "name": "Зар Захаров",
+        "avatar_url": "https://lh3.googleusercontent.com/a-/AAuE7mBNFfyQLJtU8jsw9OUdYdImPJF-ZvsR8Tj6BG2kodY=s100",
+        "type": "person",
+        "person": {
+          "email": "severenit@gmail.com"
+        }
+      }
+    ],
+    "skills": [],
+    "duration": 0
+  },
+  "landing": {
+    "path": "./landing.md"
+  },
+  "content": [
+    {
+      "id": "280d707f-9ca5-4e1f-9156-82d90aeba21a",
+      "order": 1,
+      "title": "Знакомство с JS",
+      "theses": "",
+      "skills": ["JavaScript"],
+      "files": [],
+      "status": "Done",
+      "attachmentURL": null,
+      "authors": [
+        {
+          "object": "user",
+          "id": "db0f6335-27b2-4b00-acb1-bb1414fdc13f",
+          "name": "Зар Захаров",
+          "avatar_url": "https://lh3.googleusercontent.com/a-/AAuE7mBNFfyQLJtU8jsw9OUdYdImPJF-ZvsR8Tj6BG2kodY=s100",
+          "type": "person",
+          "person": {
+            "email": "severenit@gmail.com"
+          }
+        }
+      ],
+      "daysToUnlock": 0,
+      "daysToDeadline": 0,
+      "isFree": true,
+      "updatedAt": "2022-04-01T17:13:00.000Z",
+      "lesson": {
+        "path": "./content/lesson-01/lesson.md"
+      },
+      "homework": [
+        {
+          "id": "903db899-3231-48f5-8025-a5febf70fd75",
+          "title": "Homework #1",
+          "path": "./content/lesson-01/homework.md",
+          "files": [
+            {
+              "name": "MK.zip",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e2a9722d-25fe-4ab4-9695-028e8c8df9ca/MK.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220402T122934Z&X-Amz-Expires=3600&X-Amz-Signature=f3ad94e289a500bb9a7e1a23176f2042a2f5a71d9a6fec942132dadb5c1e8cc9&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-04-02T13:29:34.271Z"
+              }
+            }
+          ],
+          "daysToDeadline": null,
+          "skills": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          },
+          "categoriesIds": {
+            "type": "array",
+            "array": [],
+            "function": "show_original"
+          },
+          "updatedAt": "2022-04-01T17:12:00.000Z"
+        }
+      ],
+      "sourceIds": []
+    }
+  ],
+  "content2": {
+    "id": "jsmarathon-mortal-kombat-copy",
+    "lessons": [
+      {
+        "id": "0c642c4d-3afd-4cfb-ad1c-ffdb4a6cec1a",
+        "order": 2,
+        "title": "Учимся работать с DOM",
+        "theses": "",
+        "skills": [],
+        "files": [],
+        "attachmentURL": null,
+        "authors": [
+          {
+            "object": "user",
+            "id": "db0f6335-27b2-4b00-acb1-bb1414fdc13f",
+            "name": "Зар Захаров",
+            "avatar_url": "https://lh3.googleusercontent.com/a-/AAuE7mBNFfyQLJtU8jsw9OUdYdImPJF-ZvsR8Tj6BG2kodY=s100",
+            "type": "person",
+            "person": {
+              "email": "severenit@gmail.com"
+            }
+          }
+        ],
+        "daysToUnlock": 0,
+        "daysToDeadline": 0,
+        "isFree": true,
+        "updatedAt": "2022-04-01T17:15:00.000Z",
+        "homeworkIds": [
+          "502b00b3-3d36-46ae-8066-8735747fb248"
+        ],
+        "sourceIds": []
+      },
+      {
+        "id": "280d707f-9ca5-4e1f-9156-82d90aebab1a",
+        "order": 1,
+        "title": "Знакомство с JS",
+        "theses": "",
+        "skills": [],
+        "files": [],
+        "attachmentURL": null,
+        "authors": [
+          {
+            "object": "user",
+            "id": "db0f6335-27b2-4b00-acb1-bb1414fdc13f",
+            "name": "Зар Захаров",
+            "avatar_url": "https://lh3.googleusercontent.com/a-/AAuE7mBNFfyQLJtU8jsw9OUdYdImPJF-ZvsR8Tj6BG2kodY=s100",
+            "type": "person",
+            "person": {
+              "email": "severenit@gmail.com"
+            }
+          }
+        ],
+        "daysToUnlock": 0,
+        "daysToDeadline": 0,
+        "isFree": true,
+        "updatedAt": "2022-04-01T17:13:00.000Z",
+        "homeworkIds": [
+          "903db899-3231-48f5-8025-a5febf70fd75"
+        ],
+        "sourceIds": []
+      }
+    ],
+    "homework": [
+      {
+        "id": "502b00b3-3d36-46ae-8066-8735747fb248",
+        "title": "Homework #2",
+        "files": [],
+        "daysToDeadline": null,
+        "skills": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        },
+        "categoriesIds": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        },
+        "lessonIds": [
+          "0c642c4d-3afd-4cfb-ad1c-ffdb4a6cec1a"
+        ],
+        "updatedAt": "2022-04-01T17:17:00.000Z"
+      },
+      {
+        "id": "903db899-3231-48f5-8025-a5febf70fd75",
+        "title": "Homework #1",
+        "files": [
+          {
+            "name": "MK.zip",
+            "type": "file",
+            "file": {
+              "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e2a9722d-25fe-4ab4-9695-028e8c8df9ca/MK.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220402%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220402T122934Z&X-Amz-Expires=3600&X-Amz-Signature=f3ad94e289a500bb9a7e1a23176f2042a2f5a71d9a6fec942132dadb5c1e8cc9&X-Amz-SignedHeaders=host&x-id=GetObject",
+              "expiry_time": "2022-04-02T13:29:34.271Z"
+            }
+          }
+        ],
+        "daysToDeadline": null,
+        "skills": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        },
+        "categoriesIds": {
+          "type": "array",
+          "array": [],
+          "function": "show_original"
+        },
+        "lessonIds": [
+          "280d707f-9ca5-4e1f-9156-82d90aebab1a"
+        ],
+        "updatedAt": "2022-04-01T17:12:00.000Z"
+      }
+    ],
+    "source": [],
+    "botMessages": [],
+    "streams": []
+  }
+}

@@ -38,15 +38,6 @@ async function readFile(path) {
 }
 
 readDir(pathCourse, async (course) => {
-  // Object.entries(course).forEach(async (item) => {
-  //   console.log('####: item', item);
-  //   fs.readFile(path.resolve(item[1], 'config.json'), 'utf8', async (error, content) => {
-  //     console.log('####: content', JSON.parse(content).landing);
-  //     fs.writeFile(path.resolve(item[1], 'landing.md'), JSON.stringify(JSON.parse(content).landing.markdown), err => {
-  //       console.log('####: err', err);
-  //     });
-  //   });
-  // });
   await fetch(`${DB}/breadcrumbs.json`, {
     method: 'PUT',
     body: JSON.stringify({
@@ -60,15 +51,44 @@ readDir(pathCourse, async (course) => {
   });
   //
   Object.entries(course).forEach(async (item) => {
-    await fs.readFile(path.resolve(item[1], 'config.json'), 'utf8', async (error, content) => {
+    await fs.readFile(path.resolve(item[1], 'config.json'), 'utf8', async (error, data) => {
       await fetch(`${DB}/breadcrumbs/${item[0]}.json`, {
         method: 'PUT',
-        body: JSON.stringify(JSON.parse(content).title)
+        body: JSON.stringify(JSON.parse(data).title)
+      });
+
+      const { content, landing, ...rest } = JSON.parse(data);
+      console.log('####: content', content);
+      const lessons = {};
+      const homeworks = {};
+      const newContent = content.map(({lesson, homework, ...rest}) => {
+        lessons[rest.id] = lesson;
+        homeworks[rest.id] = homework;
+        return rest;
       });
 
       await fetch(`${DB}/contents/course/${item[0]}.json`, {
         method: 'PUT',
-        body: content
+        body: JSON.stringify(rest)
+      });
+      
+      await fetch(`${DB}/contents/content/${item[0]}.json`, {
+        method: 'PUT',
+        body: JSON.stringify({
+          ...rest,
+          landing,
+          content: newContent
+        })
+      });
+
+      await fetch(`${DB}/contents/homework/${item[0]}.json`, {
+        method: 'PUT',
+        body: JSON.stringify(homeworks)
+      });
+
+      await fetch(`${DB}/contents/lesson/${item[0]}.json`, {
+        method: 'PUT',
+        body: JSON.stringify(lessons)
       });
     });
   });

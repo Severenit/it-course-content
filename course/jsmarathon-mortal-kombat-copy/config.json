@@ -1,6 +1,6 @@
 {
   "id": "jsmarathon-mortal-kombat-copy",
-  "title": "JSMarathon Mortal Kombat",
+  "title": "JSMarathon Mortal Kombat 2",
   "preview": [
     {
       "name": "jsmarathon-mortal-kombat.gif",
@@ -50,7 +50,7 @@
     {
       "id": "280d707f-9ca5-4e1f-9156-82d90aeba21a",
       "order": 1,
-      "title": "Знакомство с JS",
+      "title": "Знакомство с JS 2",
       "theses": "",
       "skills": ["JavaScript"],
       "files": [],
@@ -142,7 +142,7 @@
       {
         "id": "280d707f-9ca5-4e1f-9156-82d90aebab1a",
         "order": 1,
-        "title": "Знакомство с JS",
+        "title": "Знакомство с JS 2",
         "theses": "",
         "skills": [],
         "files": [],

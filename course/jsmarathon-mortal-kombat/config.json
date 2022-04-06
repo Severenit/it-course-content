@@ -1,6 +1,7 @@
 {
   "id": "jsmarathon-mortal-kombat",
   "title": "JSMarathon Mortal Kombat",
+  "tariff": ["react"],
   "preview": [
     {
       "name": "jsmarathon-mortal-kombat.gif",
@@ -103,6 +104,7 @@
       "theses": "",
       "skills": [],
       "files": [],
+      "status": "Done",
       "attachmentURL": null,
       "authors": [
         {

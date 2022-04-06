@@ -58,11 +58,15 @@ readDir(pathCourse, async (course) => {
       });
 
       const { content, landing, ...rest } = JSON.parse(data);
-      console.log('####: content', content);
+
       const lessons = {};
       const homeworks = {};
+
       const newContent = content.map(({lesson, homework, ...rest}) => {
-        lessons[rest.id] = lesson;
+        lessons[rest.id] = {
+          ...lesson,
+          ...rest
+        };
         homeworks[rest.id] = homework;
         return rest;
       });
@@ -71,7 +75,7 @@ readDir(pathCourse, async (course) => {
         method: 'PUT',
         body: JSON.stringify(rest)
       });
-      
+
       await fetch(`${DB}/contents/content/${item[0]}.json`, {
         method: 'PUT',
         body: JSON.stringify({

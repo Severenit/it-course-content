@@ -38,19 +38,9 @@ async function readFile(path) {
 }
 
 readDir(pathCourse, async (course) => {
-  await fetch(`${DB}/breadcrumbs.json`, {
-    method: 'PUT',
-    body: JSON.stringify({
-      course: 'Главная'
-    })
-  });
 
-  await fetch(`${DB}/contents/course.json`, {
-    method: 'PUT',
-    body: JSON.stringify({})
-  });
-  //
   Object.entries(course).forEach(async (item) => {
+
     await fs.readFile(path.resolve(item[1], 'config.json'), 'utf8', async (error, data) => {
       await fetch(`${DB}/breadcrumbs/${item[0]}.json`, {
         method: 'PUT',

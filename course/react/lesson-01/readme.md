@@ -425,4 +425,8 @@ const MENU = ['Menu 1', 'Menu 2', 'Menu 3', 'Menu 4'];
 
 > Помните, что все что мы прошли в уроках позволит вам с легкостью выполнить домашнюю работу.
 
+Если все сделаете правильно, у вас должно получиться вот такой результат.
+
+![result](https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/course%2Freact%2F01%2FScreenshot%202022-04-08%20at%202.01.56%20AM.png?alt=media&token=c67f623b-9cab-44aa-8db0-a59fcc5bb360)
+
 Сданным домашним заданием считается PR (pull request), сданный в форму ниже ⬇️ 

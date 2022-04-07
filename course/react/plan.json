@@ -6,9 +6,9 @@
     "homework": true
   },
   {
-    "href": "lesson1",
+    "href": "lesson-01",
     "title": "Урок №1: Введение в React",
-    "active": false,
+    "active": true,
     "event": {
       "title": "Урок №1",
       "description": "Введение в React. Мы познакомимся с Create React App, а так же основными понятиями в React",

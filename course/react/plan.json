@@ -21,14 +21,15 @@
   {
     "href": "discord",
     "title": "Урок №2: Углубляемся в React",
-    "active": false,
+    "active": true,
     "event": {
       "title": "Урок №2",
       "description": "Углубляемся в React",
       "startTime": "2022-03-14T11:00:00+03:00",
       "endTime": "2022-03-14T12:00:00+03:00",
       "url": "https://it-course.online/course/react"
-    }
+    },
+    "homework": true
   },
   {
     "href": "discord",

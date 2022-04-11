@@ -26,12 +26,12 @@
 
 ## 02.05 - Создаем компонент Container
 
-![vimeo](https://vimeo.com/696935267)
+![vimeo](https://vimeo.com/698238553)
 
 
 ## 02.06 - classNames
 
-![vimeo](https://vimeo.com/696957701)
+![vimeo](https://vimeo.com/698238615)
 
 
 ## 02.07 - Создаем компонент заголовка

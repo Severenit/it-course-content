@@ -41,7 +41,7 @@
 
 ## 02.08 - PropTypes
 
-![vimeo](https://vimeo.com/698286992)
+![vimeo](https://vimeo.com/698287188)
 
 
 ## 02.09 - Создаем Pull Request

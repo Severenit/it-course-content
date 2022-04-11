@@ -46,7 +46,7 @@
 
 ## 02.09 - Создаем Pull Request
 
-![vimeo](https://vimeo.com/696994477)
+![vimeo](https://vimeo.com/698292175)
 
 # Homework #2
 

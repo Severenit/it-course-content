@@ -36,12 +36,12 @@
 
 ## 02.07 - Создаем компонент заголовка
 
-![vimeo](https://vimeo.com/696994354)
+![vimeo](https://vimeo.com/698286992)
 
 
 ## 02.08 - PropTypes
 
-![vimeo](https://vimeo.com/696994422)
+![vimeo](https://vimeo.com/698286992)
 
 
 ## 02.09 - Создаем Pull Request

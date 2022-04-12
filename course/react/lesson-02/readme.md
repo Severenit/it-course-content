@@ -51,6 +51,80 @@
 
 Мы должны освоить пройденный материал, закрепить использование библиотеки [classNames](https://www.npmjs.com/package/classnames), [propTypes](https://ru.reactjs.org/docs/typechecking-with-proptypes.html) и передачи **props** в компоненты.
 
+## Компонент <Header />
+
+Давайте чуть исправим заголовок, прежде всего возьмите текущий код для стилей компонента `<Header />`
+
+```css
+.root {
+    height: 80px;
+}
+
+.header {
+    height: 80px;
+    width: 100%;
+    transition: height 0.2s linear, box-shadow 0.2s linear;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    background: rgba(245, 245, 245, 0.97);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header.small {
+    height: 60px;
+    box-shadow: 0px 1px 3px 0px rgba(50, 50, 50, 0.8);
+}
+
+.logo {
+    height: 70px;
+    width: 125px;
+}
+
+.nav {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    transition: font-size 0.2s linear;
+}
+
+.nav li {
+    position: relative;
+}
+
+.nav li a {
+    transition: color 0.2s linear;
+}
+
+.nav li:hover a {
+    color: red;
+}
+
+.nav li a {
+    padding: 21px;
+    color: initial;
+    text-decoration: initial;
+}
+
+.header.small .logo {
+    width: 89px;
+    height: 50px;
+}
+
+.header.small .nav  {
+    font-size: 16px;
+}
+```
+
+В наш **div** с классом .logo вставим картинку логотипа.
+
+Картинку вы можете скачать отсюда [logo.png](https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/course%2Freact%2F02%2Flogo.png?alt=media&token=5cda9c00-1d3c-431f-9f3a-d6bff9022842)
+
 ## Компонент <Container />
 
 Конечно, чаще всего такой компонент называется *Layout*. И такие компоненты существуют почти в каждом React приложение. Этот компонент имеет единую обертку над контентом.

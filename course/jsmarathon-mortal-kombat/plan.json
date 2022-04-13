@@ -20,8 +20,18 @@
     "active": true
   },
   {
+    "href": "prozharka-04",
+    "title": "Прожарка 4 урока",
+    "active": true
+  },
+  {
     "href": "lesson-05",
     "title": "Урок №5: Циклы и работа с формы из JS",
+    "active": true
+  },
+  {
+    "href": "prozharka-05",
+    "title": "Прожарка 5 урока",
     "active": true
   },
   {
@@ -30,13 +40,28 @@
     "active": true
   },
   {
+    "href": "prozharka-06",
+    "title": "Прожарка 6 урока",
+    "active": true
+  },
+  {
     "href": "lesson-07",
     "title": "Урок №7: Все о всех функциях и модули",
     "active": true
   },
   {
+    "href": "prozharka-07",
+    "title": "Прожарка 7 урока",
+    "active": true
+  },
+  {
     "href": "lesson-08",
     "title": "Урок №8: Class что это такое и как с ним работать",
+    "active": true
+  },
+  {
+    "href": "prozharka-08",
+    "title": "Прожарка 8 урока",
     "active": true
   },
   {

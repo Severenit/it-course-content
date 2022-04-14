@@ -43,10 +43,14 @@
 
 ![vimeo](https://vimeo.com/699480989)
 
+## 03.08 - like Card
+
+![vimeo](https://vimeo.com/699481707)
+
 
 ## 03.09 - unlike Card
 
-![vimeo](https://vimeo.com/699481707
+![vimeo](https://vimeo.com/699481707)
 
 
 ## 03.10 - Поднятие состояния

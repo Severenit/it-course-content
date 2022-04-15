@@ -60,6 +60,12 @@
     height: 80px;
 }
 
+.headerWrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .header {
     height: 80px;
     width: 100%;
@@ -124,6 +130,8 @@
 В наш **div** с классом .logo вставим картинку логотипа.
 
 Картинку вы можете скачать отсюда [logo.png](https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/course%2Freact%2F02%2Flogo.png?alt=media&token=5cda9c00-1d3c-431f-9f3a-d6bff9022842)
+
+UPD: Нашему контейнеру которое оборачивает logo и menu дадим класс **.headerWrap** 
 
 ## Компонент <Container />
 

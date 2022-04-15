@@ -175,7 +175,7 @@ const CHARACTER = {
 
 ```html
 <div class="root">
-  <img src={src} alt={name} class="cardImage" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/marvel-game%2Fspider-man.png?alt=media&token=8ff4b083-81ed-449f-823c-c79110735d1b" alt="Spider-Man" class="cardImage" />
   <div class="cardDetails">
     <h2 class="cardName">
       Spider-Man
@@ -184,7 +184,7 @@ const CHARACTER = {
       Peter Parker
     </h3>
     <p class="cardDescription">
-      https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/marvel-game%2Fspider-man.png?alt=media&token=8ff4b083-81ed-449f-823c-c79110735d1b
+      Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.
     </p>
 
     <div class="cardMeta">

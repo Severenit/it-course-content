@@ -10,7 +10,7 @@
 
 ![vimeo](https://vimeo.com/700481232)
 
-## 04.01 - Неизменяемые (Immutable) переменные
+## 04.02 - Неизменяемые (Immutable) переменные
 
 ![vimeo](https://vimeo.com/700481326)
 

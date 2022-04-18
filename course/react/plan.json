@@ -38,16 +38,10 @@
     "homework": true
   },
   {
-    "href": "discord",
-    "title": "Урок №4: ???",
-    "active": false,
-    "event": {
-      "title": "Урок №4",
-      "description": "Углубляемся в React",
-      "startTime": "2022-03-21T11:00:00+03:00",
-      "endTime": "2022-03-21T12:00:00+03:00",
-      "url": "https://it-course.online/course/react"
-    }
+    "href": "lesson-04",
+    "title": "Урок №4: Иммутабильность в React и жизненные фазы/циклы компонента",
+    "active": true,
+    "homework": true
   },
   {
     "href": "discord",

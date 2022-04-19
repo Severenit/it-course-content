@@ -150,6 +150,68 @@ export const BIO = {
       type: 'img',
       src: 'https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/marvel-game%2Fcharacters%2Fspider-man%2F005smp_com_inl_02.jpeg?alt=media&token=c5f56536-5ace-40d9-a39f-d19d01d2b809'
     },
+  ],
+  1113431: [
+    {
+      type: 'h1',
+      text: 'Hulk (Bruce Banner) In Comics Powers',
+    },
+    {
+      type: 'h2',
+      text: 'Way of the Wandering Warrior'
+    },
+    {
+      type: 'paragraph',
+      text: 'While avoiding General Ross and the U.S. Army, the Hulk took on extra-normal opponents such as the wily Gargoyle and the subterranean Tyrannus as his transformations back and forth to Bruce Banner became less erratic and more stabilized. Eventually, the change into a now-green form would usually occur mostly due to Banner’s adrenaline rushes, something the worried scientist worked desperately to control while he hid his secret from the world.'
+    },
+    {
+      type: 'paragraph',
+      text: 'When the Asgardian god of mischief Loki sought to sow chaos for his half-brother Thor, he manipulated Hulk into a clash with Thor, Iron Man, Ant-Man, and the Wasp, though he only succeeded in the inadvertent creation of a new team of heroes, the Avengers. Suspicious of his teammates, the Hulk left very shortly after the team formed, and soon began an alliance with Namor the Sub-Mariner to oppose the Avengers. When that too fell apart, the green behemoth returned to his wanderings and infrequent battles with General Ross’ “Hulkbusters” fighting unit.'
+    },
+    {
+      type: 'paragraph',
+      text: 'Believing he operated in Banner’s best interests, Rick Jones revealed the scientist’s secret to Ross and his daughter Betty, and before long the public knew the truth of the connection between Banner and the Hulk. Banner subsequently proposed to Betty, but the Hulk came between them and the young woman went on to marry Bruce Talbot, one of her father’s army majors and a steadfast rival of Banner’s. The Hulk helped the mystic Dr. Strange and Namor defeat an otherworldly threat to the Earth and joined Strange’s loose “non-team” the Defenders for many adventures in the years to come alongside various teammates.'
+    },
+    {
+      type: 'img',
+      src: ''
+    },
+    {
+      type: 'paragraph',
+      text: 'At one point, the Hulk was transported to another plane of existence, where he met the beautiful queen Jarella and fell in love with her. Then, back on Earth, Banner performed a blood transfusion on his wounded cousin Jennifer Walters, which caused her to change into a “She-Hulk,” and later Banner accepted the Hulk as an integral part of himself. When an accident allowed the Hulk to retain his alter-ego’s intelligence, the U.S. president pardoned the creature, until Banner once again lost control of his other self. Wandering once more, and near-mindless, the Hulk found himself at an other-dimensional crossroads, the result of Dr. Strange’s well-meaning spells, and entered into a new series of weird adventures there.'
+    },
+    {
+      type: 'paragraph',
+      text: 'Brought back to Earth accidentally by the Canadian super team Alpha Flight, the Hulk rampaged across the land before being separated into two wholly separate beings, himself and Bruce Banner. Believing a new future lay ahead of him, the scientist proposed again to the now-divorced Betty Ross, but their hopeful new wedded life fell quickly into chaos when the Hulk and Banner were reintegrated. After that, a strange, intelligent, and grey-skinned version of the Hulk—not unlike his first form— emerged to work as an enforcer nicknamed Mr. Fixit in Las Vegas for a time.'
+    },
+    {
+      type: 'paragraph',
+      text: 'The green Hulk eventually returned and due to the work of psychiatrist and fellow gamma-mutate Doc Samson, grew more intelligent. Now known as the Professor, this clever, smart Hulk met and joined the secretive group called the Pantheon, faced his own possible future-self, the Maestro, and reverted back to his more-brutish form when Banner received shrapnel close to his brain after an attack. The scientist also finally made peace with the ghost of his abusive father after the mutant Apocalypse removed a dangerous shard in his head and his beloved Betty seemingly died.'
+    },
+    {
+      type: 'paragraph',
+      text: 'A revived Betty came to Banner in the guise of the mysterious “Mr. Blue” to teach her husband self-hypnosis to help him control the inner Hulk. The Leader framed the green giant for murder, prompting Banner to hit the road and avoid the gamma villain’s bid to insert his own mind into the Hulk’s body. Another gamma bomb explosion temporarily resurrected the grey Hulk, and a collection of the smartest heroes on Earth called the Illuminati shot the Hulk into space for permanent exile, but a space warp transported him to the far-flung planet Sakaar where he became a popular warrior, and eventually the world’s ruler.'
+    },
+    {
+      type: 'paragraph',
+      text: 'Lasting happiness on Sakaar eluded the Hulk when the power cell in his spaceship exploded and decimated a large portion of the planet, along with his queen. Returning to Earth for revenge on the Illuminati, the Hulk went on a rampage until Iron Man devised a way to transform the behemoth back into Bruce Banner and hold him in stasis. During this time, the Hulk was befriended by boy genius Amadeus Cho, and Banner witnessed the advent of both a new Red Hulk (secretly “Thunderbolt” Ross) and Rick Jones’ transformation into the blue beast called A-Bomb. The original Hulk finally returned to put all newcomers in their place, as well as to deal with the arrival of his son Skaar from Sakaar and Betty as a Red She-Hulk.'
+    },
+    {
+      type: 'img',
+      src: ''
+    },
+    {
+      type: 'paragraph',
+      text: 'Doctor Doom managed to separate Banner and his alter-ego once again, and the now-insane scientist sequestered himself on a remote island where he waged a private war on the Hulk. When the two were finally recombined, the Hulk joined the spy organization S.H.I.E.L.D. and after being healed of a head wound by Iron Man’s Extremis formula, manifested yet another new personality, Doc Green. Intelligent again, the Hulk decided to rid the world of all gamma-mutates—including his own cousin, She-Hulk—by taking back the radiation’s effects. However, when Amadeus Cho absorbed his own gamma-powers, the boy became the new Hulk.'
+    },
+    {
+      type: 'paragraph',
+      text: 'Guilt-ridden from all the hurt his alter-ego delivered to the world, Banner placed himself into seclusion until drawn from it by another “civil war” between Earth’s champions over an Inhuman with visions of the future. One such vision illustrated the Hulk’s eventual destruction of numerous heroes, but when Iron Man and others confronted Banner to take him into their custody, the archer Hawkeye subverted their intentions and killed the scientist with an arrow through his brain.'
+    },
+    {
+      type: 'paragraph',
+      text: 'Later, the nefarious Hand ninja clan stole Banner’s body to resurrect it for their own purposes, and mad bio-engineer Arnim Zola subsequently revived the Hulk for another temporary rampage during Hydra’s recent takeover of the United States.'
+    }
   ]
 }
 

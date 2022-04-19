@@ -41,4 +41,8 @@
 
 # Homework #4
 
+По окончанию домашней работы я рассчитываю от вас увидеть примерно такой результат:
+
+![Finish Result](https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/course%2Freact%2F04%2FFinishResult.gif?alt=media&token=8f742c15-f3bd-4428-b0b8-146eaabf58ec)
+
 UPD

@@ -59,6 +59,10 @@
 
 Кнопка должна быть двух видов.
 
+![Button #1](https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/course%2Freact%2F04%2FScreenshot%202022-04-19%20at%208.55.38%20PM.png?alt=media&token=7c441988-0764-4881-b947-9cc2386a4c0b)
+
+![Button #2](https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/course%2Freact%2F04%2FScreenshot%202022-04-19%20at%208.55.46%20PM.png?alt=media&token=4069b021-ec61-4b8e-8535-3c70c87ecb15)
+
 Так что подумайте, какие **props** ей надо передать чтобы иметь возможность рисовать кнопку разных форматов.
 
 UPD

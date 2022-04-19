@@ -96,7 +96,11 @@ export const BIO = {
   1011334: [
     {
       type: 'h1',
-      text: 'SPIDER-MAN'
+      text: 'Spider-Man (Peter Parker) In Comics Powers'
+    },
+    {
+      type: 'h2',
+      text: 'Biography',
     },
     {
       type: 'paragraph',
@@ -174,7 +178,7 @@ export const BIO = {
     },
     {
       type: 'img',
-      src: ''
+      src: 'https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/marvel-game%2Fcharacters%2Fhulk%2F006hbb-com-mnt-ih186-07.jpeg?alt=media&token=69999bf2-8ec0-4c1e-829f-3dc2ab130f11'
     },
     {
       type: 'paragraph',
@@ -198,7 +202,7 @@ export const BIO = {
     },
     {
       type: 'img',
-      src: ''
+      src: 'https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/marvel-game%2Fcharacters%2Fhulk%2F006hbb-com-mnt-ih501-04.jpeg?alt=media&token=d8ba1146-f265-4ada-b60a-41027eb64080'
     },
     {
       type: 'paragraph',
@@ -212,9 +216,168 @@ export const BIO = {
       type: 'paragraph',
       text: 'Later, the nefarious Hand ninja clan stole Banner’s body to resurrect it for their own purposes, and mad bio-engineer Arnim Zola subsequently revived the Hulk for another temporary rampage during Hydra’s recent takeover of the United States.'
     }
-  ]
+  ],
+  1127131: [
+    {
+      type: 'h1',
+      text: 'Iron Man (Tony Stark) In Comics Powers'
+    },
+    {
+      type: 'h2',
+      text: 'COOL EXEC, HEART OF STEEL'
+    },
+    {
+      type: 'paragraph',
+      text: 'Tony Stark is the wealthy son of industrialist and weapons manufacturer Howard Stark and his wife, Maria. Tony grew up a genius with a brilliant mind for technology and inventions and, naturally, followed in his father’s footsteps, inheriting Stark Industries upon his parents’ untimely death. Tony designed many weapons of war for Stark Industries, far beyond what any other company was creating, while living the lifestyle of a bon vivant.'
+    },
+    {
+      type: 'paragraph',
+      text: 'Fate would take a dark turn for Tony Stark once he decided to consult on a weapons contract overseas in enemy terrain. An improvised explosive device exploded underneath Tony’s transport, and he was brought to the brink of death.'
+    },
+    {
+      type: 'paragraph',
+      text: 'Awakening as a prisoner of the warlord Wong-Chu, Tony made a gruesome discovery: the explosion had sent a piece of shrapnel mere inches from his heart. It was only the timely intervention of fellow captive and engineer Yinsen that kept the shrapnel at bay.While held captive, and forced to work on weapons, Tony turned his near-death experience into inspiration. What if he could power an iron suit that would not only keep the shrapnel from killing Tony, but also help him to escape?'
+    },
+    {
+      type: 'img',
+      src: 'https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/marvel-game%2Fcharacters%2Firon-man%2F002irm_com_inl_01.jpeg?alt=media&token=d390af0a-c0fb-43e5-9ed0-10b7ea0330b1'
+    },
+    {
+      type: 'paragraph',
+      text: 'Combining their genius, Tony and Yinsen built a mighty suit of iron armor that would be dubbed Iron Man. This first suit left a lot of room for improvement, but it still did what Tony couldn’t do alone. Yinsen sacrificed his life so the final preparations could be made, and Tony, wearing the Iron Man suit for the first time, escaped and returned to the United States a changed man.With full access to his equipment, Tony built a new, more streamlined suit of armor—the first of many updated versions he would create—and dedicated his life to fighting threats to the world.'
+    }
+  ],
+  1021331: [
+    {
+      type: 'h1',
+      text: 'Doctor Strange (Stephen Strange) In Comics Powers'
+    },
+    {
+      type: 'h2',
+      text: 'Biography'
+    },
+    {
+      type: 'paragraph',
+      text: 'As Earth’s Sorcerer Supreme, Doctor Strange wields arcane spells and mystical artifacts to defend the planet against malevolent threats.'
+    },
+    {
+      type: 'h2',
+      text: 'With These Hands'
+    },
+    {
+      type: 'paragraph',
+      text: 'Awakening as a prisoner of the warlord Wong-Chu, Tony made a gruesome discovery: the explosion had sent a piece of shrapnel mere inches from his heart. It was only the timely intervention of fellow captive and engineer Yinsen that kept the shrapnel at bay.While held captive, and forced to work on weapons, Tony turned his near-death experience into inspiration. What if he could power an iron suit that would not only keep the shrapnel from killing Tony, but also help him to escape?'
+    },
+    {
+      type: 'img',
+      src: 'https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/marvel-game%2Fcharacters%2Fdoctor-strange%2F009drs-com-mnt-drs-01.jpeg?alt=media&token=b482e335-7a08-4e29-8d8f-6b49d3f44f15'
+    },
+    {
+      type: 'paragraph',
+      text: 'Knowing his reliance on his medical abilities to support his affluent lifestyle, Strange began to seek a source of healing for his hands until the quest drained him of his resources and he faced a dark and uncertain future. Having crossed off all grounded cures from his list, he followed a path of rumor and legend to Tibet for a more esoteric shelter. There, high in the mountains, he met the Ancient One, a master mystic, and caught his first glimpse of a much larger universe.'
+    },
+    {
+      type: 'paragraph',
+      text: 'Strange embarked on a journey to learn the art of magic under the Ancient One’s tutelage when he realized that the art of medicine would remain closed off from him forever. The former medico excelled at his lessons and grew to be as adept at spells and sorcery as he once was at surgery. The Ancient One saw in Strange a most gifted pupil and after years of schooling him, presented him with powerful artifacts with which to protect the Earth from many and varied menaces.'
+    },
+    {
+      type: 'paragraph',
+      text: 'Returning to the West, Strange set up a new practice in New York City, and settled into his destined role as a sage, an occult advisor, and a Master of the Mystic Arts.'
+    }
+  ],
+  1167381: [
+    {
+      type: 'h1',
+      text: 'Captain America (Steve Rogers) In Comics Powers'
+    },
+    {
+      type: 'h2',
+      text: 'Biography'
+    },
+    {
+      type: 'paragraph',
+      text: 'From the dark days of world war to the explosive challenges of today, Super-Soldier Captain America stands ready as a shining sentinel of liberty to shield the oppressed and fight for freedom everywhere.'
+    },
+    {
+      type: 'h2',
+      text: 'Ninety-Eight-Pound Weakling'
+    },
+    {
+      type: 'paragraph',
+      text: 'A poor orphan from the wrong side of the tracks in the days leading up to World War II, goodhearted Steve Rogers enlisted in the army to fight the Axis Powers, but met with rejection due to his small size and underdeveloped physique. Professor Abraham Erskine, a pioneer in the development of a Super-Soldier for the United States, saw potential in Rogers and whisked him into Project Rebirth, the professor’s bold experiment in enhancing the human body to its peak powers.'
+    },
+    {
+      type: 'paragraph',
+      text: 'Rogers found himself subjected to Erskine’s treatments— a specialized serum and exposure to a unique form of radiation—and realized the professor’s dream, becoming the world’s first, fully developed Super-Soldier. Now muscular and tall, as well as possessed of amazing strength and agility, the former ninety-eight-pound weakling watched in horror as a Nazi spy shot and killed Erskine, and thereby ensured Rogers would be the last of his kind.'
+    },
+    {
+      type: 'paragraph',
+      text: 'The United States government moved swiftly to fashion Rogers into a living symbol of inspiration to the public at home and soldiers abroad. And, after extensive combat training he debuted in a colorful, patriotic uniform as Captain America. Operating out of the army’s Camp Lehigh in Virginia, Rogers posed as an ordinary soldier, but conducted secret missions stateside and abroad as his alter-ego to smash spies, saboteurs, and the occasional Super Villain who threatened the country he loved so dearly. Soon, Cap captured the attention of the Red Skull, his evil counterpart in Germany, and the two formed a lasting enmity over the course of the war. The hero also gained a near-indestructible shield with which he became supremely efficient in both offense and defense.'
+    },
+    {
+      type: 'img',
+      src: 'https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/marvel-game%2Fcharacters%2Fcapitan-america%2F003cap-com-mnt-cac1-01.jpeg?alt=media&token=a7fdea9b-198d-43ca-a215-14b769f539aa'
+    },
+    {
+      type: 'paragraph',
+      text: 'More costumed champions began to appear and founded a fighting battalion known as the Invaders with Captain America. The Super-Soldier also struck up a close friendship with a young man named Bucky Barnes who was perceived as a kind of sidekick on Cap’s missions, though Bucky possessed his own formidable skills. Toward the end of the war, the famous fighting duo closed in on Baron Zemo, a Nazi scientist who’d committed nearly as many atrocities against the Allies as the Red Skull, and moved to destroy an experimental plane he coveted. Unfortunately, Cap and Bucky found themselves caught in the aircraft’s fiery demise while in flight, and both tumbled into the ocean, leading Cap to believe Bucky had perished in the explosion.'
+    },
+    {
+      type: 'paragraph',
+      text: 'Due to Erskine’s serum coursing through his veins, Cap’s body went into suspended animation once submerged in the frigid waters, and ended up encased in solid ice. In this manner, he slept away the decades until discovered by the Avengers, a team of Super Heroes, in modern times. Awakened and resuscitated, Cap’s astonishment in realizing he’d lost Bucky and everyone he’d ever cared for quickly gave way to his unshakable sense of duty and he once again donned his famous shield and outfit to join with the Avengers in their ongoing battle against injustice.'
+    }
+  ],
+  1010536: [
+    {
+      type: 'h1',
+      text: 'Captain Marvel (Carol Danvers) Powers'
+    },
+    {
+      type: 'h2',
+      text: 'Biography'
+    },
+    {
+      type: 'paragraph',
+      text: 'Former Air Force pilot and intelligence agent Carol Danvers pursued her dream of space exploration as a NASA employee, but her life forever changed when she was accidentally transformed into a human-Kree hybrid with extraordinary powers.'
+    },
+    {
+      type: 'paragraph',
+      text: 'Now, Carol is the latest warrior to embrace the mantle of Captain Marvel, and she has taken her place as one of the world’s mightiest heroes.'
+    },
+    {
+      type: 'h2',
+      text: 'Higher, Further, Faster, More'
+    },
+    {
+      type: 'paragraph',
+      text: 'As a NASA security officer, Carol investigated numerous attempts made by the Kree and Skrulls to infiltrate Kennedy Space Center and disrupt America’s space program. During a battle between the heroic Mar-Vell and his rival, Yon-Rogg, Carol was exposed to the Psyche-Magnitron, a Kree device that could make imagination into reality. Carol subconsciously envied Mar-Vell’s powers, and the machine responded to those desires by rewriting her DNA to make her a human/Kree hybrid with abilities similar to his.'
+    },
+    {
+      type: 'paragraph',
+      text: 'Carol took on the identity of Ms. Marvel and even fought alongside Mar-Vell/Captain Marvel and the Avengers. Her early career was cut short when Rogue, a member of the Brotherhood of Evil Mutants, attacked Carol and permanently drained her powers and memories. It took years for Carol to recover from her ordeal, but she finally achieved her dream of space exploration and traveled far from Earth. Carol even became cosmically empowered and took on the codename Binary.'
+    },
+    {
+      type: 'paragraph',
+      text: 'The Binary powers faded over time, leaving Carol with most of her original abilities. Carol returned to Earth and rejoined the Avengers. Years later, Carol adopted the codename Captain Marvel as a tribute to her fallen friend and mentor. Her prominence has also grown exponentially, and Captain Marvel is now the most popular heroine in the world.'
+    },
+    {
+      type: 'img',
+      src: 'https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/marvel-game%2Fcharacters%2Fcapitan-marvel%2F008cmv_com_inl_01.jpeg?alt=media&token=b2499d0e-d955-4929-b2f2-33895f5e2289'
+    },
+    {
+      type: 'h2',
+      text: 'Bird of War'
+    },
+    {
+      type: 'paragraph',
+      text: 'Carol Danvers was already in excellent shape before she was transformed by the Psyche-Magnitron. Afterwards, Carol’s body was pushed to the peak of human fitness and modified with Kree DNA. Her powers include enhanced strength, stamina, agility, and durability, as well as flight, and almost total immunity to toxins and poisons. Carol also has a “seventh sense” which gives her precognitive flashes of the future, but the power randomly manifests and has largely faded away.'
+    },
+    {
+      type: 'paragraph',
+      text: 'As Binary, Carol’s connection to the power of a white hole allows her to generate and control any form of radiation or gravity, as well as the ability to survive and travel in space without the protection of a spacesuit. Although the vast majority of Carol’s Binary powers have been lost, she still retains the ability to absorb energy and fire photonic blasts from her hands. If Carol is exposed to enough energy, her full Binary powers have the potential to temporarily reemerge.'
+    }
+  ],
 }
-
 ```
 
 ## #5 - Задание со *

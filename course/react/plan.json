@@ -44,16 +44,10 @@
     "homework": true
   },
   {
-    "href": "discord",
-    "title": "Урок №5: ???",
-    "active": false,
-    "event": {
-      "title": "Урок №5",
-      "description": "Углубляемся в React",
-      "startTime": "2022-03-24T11:00:00+03:00",
-      "endTime": "2022-03-24T12:00:00+03:00",
-      "url": "https://it-course.online/course/react"
-    }
+    "href": "lesson-05",
+    "title": "Урок №5: Знакомимся с React Router v6",
+    "active": true,
+    "homework": true
   },
   {
     "href": "discord",

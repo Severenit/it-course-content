@@ -34,4 +34,14 @@
 
 ![vimeo](https://vimeo.com/704338416)
 
-UPD...
+## 06.08 - Страница 404
+
+![vimeo](https://vimeo.com/704522880)
+
+## 06.09 - <Navigate />
+
+![vimeo](https://vimeo.com/704523484)
+
+# Homework #6
+
+UPD... very soon...

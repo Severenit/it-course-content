@@ -73,3 +73,7 @@ When one player's card is placed adjacent to the other player's card(s) on the g
 
 If the grid is filled with cards, and both players possess an equal number of cards of their color, a Draw will occur. Depending on the rules in play, the game may end here, with no cards exchanged. Or, it may result in a sudden death scenario where the grid is cleared, and the game is played until one player wins. Again, depending on the rules in effect, the winner will claim a prize of one of the loser's card.
 ```
+
+Ну а на этом все, жду ваши PR, до встречи очень скоро...
+
+Let's keep in touch!

@@ -46,7 +46,7 @@
 
 По мимо того что вам надо сделать тоже что и в уроках. Вам нужно сделать две вещи.
 
-## ScrollTop
+## #1 ScrollTop
 
 ![HM6](https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/course%2Freact%2F06%2FHM6-2.gif?alt=media&token=b6baee33-6719-4686-add0-f383dca53a1f)
 
@@ -54,7 +54,7 @@
 
 В этом вам поможет `useEffect` который в зависимостях будет следить за изменениями в `location.pathname`
 
-## Создадим Anchor Link
+## #2 Создадим Anchor Link
 
 ![HM6-2](https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/course%2Freact%2F06%2FHM6.gif?alt=media&token=b1383de1-f3d2-46ef-894d-5d3ca7fb5838)
 

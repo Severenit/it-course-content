@@ -51,24 +51,18 @@
   },
   {
     "href": "lesson-06",
-    "title": "Урок №6: Погружаемся в React Router v6",
+    "title": "Урок №6: Углубляемся в React Router v6",
     "active": true,
     "homework": true
   },
   {
-    "href": "discord",
-    "title": "Урок №7: ???",
-    "active": false,
-    "event": {
-      "title": "Урок №7",
-      "description": "Углубляемся в React",
-      "startTime": "2022-03-31T11:00:00+03:00",
-      "endTime": "2022-03-31T12:00:00+03:00",
-      "url": "https://it-course.online/course/react"
-    }
+    "href": "lesson-07",
+    "title": "Урок №7: Что такое HOOKS?",
+    "active": true,
+    "homework": true
   },
   {
-    "href": "discord",
+    "href": "lesson-08",
     "title": "Урок №8: ???",
     "active": false,
     "event": {
@@ -80,7 +74,7 @@
     }
   },
   {
-    "href": "discord",
+    "href": "lesson-09",
     "title": "Урок №9: ???",
     "active": false,
     "event": {
@@ -92,7 +86,7 @@
     }
   },
   {
-    "href": "discord",
+    "href": "lesson-10",
     "title": "Урок №10: ???",
     "active": false,
     "event": {
@@ -104,7 +98,7 @@
     }
   },
   {
-    "href": "discord",
+    "href": "lesson-11",
     "title": "Урок №11: ???",
     "active": false,
     "event": {
@@ -116,7 +110,7 @@
     }
   },
   {
-    "href": "discord",
+    "href": "lesson-12",
     "title": "Урок №12: ???",
     "active": false,
     "event": {
@@ -128,8 +122,8 @@
     }
   },
   {
-    "href": "discord",
-    "title": "Бонус: ???",
+    "href": "lesson-13",
+    "title": "Урок №13: ???",
     "active": false,
     "event": {
       "title": "Бонус",

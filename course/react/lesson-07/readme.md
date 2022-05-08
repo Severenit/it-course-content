@@ -1,4 +1,4 @@
-# Урок №6: Что такое HOOKS?
+# Урок №7: Что такое HOOKS?
 
 Время пришло разобраться что такое Хуки.
 Мы уже активно их используем, но помимо useState и useEffect есть множество других хуков. Так вот что они делают, для чего они, как их использовать, давайте разберемся...
@@ -26,8 +26,38 @@
 
 ![vimeo](https://vimeo.com/707211910)
 
-## 07.06 - useReducer
+## 07.07 - useRef
 
-![vimeo](https://vimeo.com/707211938)
+![vimeo](https://vimeo.com/707600615)
 
-### UPD soon...
+## 07.08 - useRef и поле ввода
+
+![vimeo](https://vimeo.com/707600653)
+
+## 07.09 - Работа с input
+
+![vimeo](https://vimeo.com/707600667)
+
+## 07.10 - Работа с множеством input
+
+![vimeo](https://vimeo.com/707600686)
+
+## 07.11 - Работа с form
+
+![vimeo](https://vimeo.com/707600716)
+
+## 07.12 - Сброс полей в form
+
+![vimeo](https://vimeo.com/707600732)
+
+## 07.13 - Контролируемые поля ввода
+
+![vimeo](https://vimeo.com/707600756)
+
+## 07.14 - Еще больше о useRef
+
+![vimeo](https://vimeo.com/707600785)
+
+# Homewrok #7
+
+**UPD soon...**

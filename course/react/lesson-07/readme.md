@@ -26,6 +26,10 @@
 
 ![vimeo](https://vimeo.com/707211910)
 
+## 07.06 - useReducer
+
+![vimeo](https://vimeo.com/707211938)
+
 ## 07.07 - useRef
 
 ![vimeo](https://vimeo.com/707600615)

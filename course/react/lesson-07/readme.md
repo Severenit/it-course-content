@@ -64,4 +64,20 @@
 
 # Homewrok #7
 
-**UPD soon...**
+Сегодня мы создадим страницу Login
+
+Эта страница должна быть отдельно, не имеет шапки, но есть футер.
+
+Верстку вы можете взять из файла [LoginPageLayout](https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/course%2Freact%2F07%2FLoginFormLayout.zip?alt=media&token=8f09fa8c-65ef-4478-9af2-cae72003fb21)
+
+У вас получится что-то вроде этого:
+
+![Login Form](https://firebasestorage.googleapis.com/v0/b/it-course-84ddd.appspot.com/o/course%2Freact%2F07%2Flogin.gif?alt=media&token=71135dc8-82f8-44de-8a30-de128ff29839)
+
+Не забудьте вывести в консоль лог регистрацию или авторизацию полей пользователя.
+
+Используйте полученные знания из урока.
+
+Ну а на этом все, жду ваши PR, до встречи очень скоро...
+
+Let's keep in touch!

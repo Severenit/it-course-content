@@ -63,15 +63,9 @@
   },
   {
     "href": "lesson-08",
-    "title": "Урок №8: ???",
+    "title": "Урок №8: Еще глубже в HOOKS",
     "active": false,
-    "event": {
-      "title": "Урок №8",
-      "description": "Углубляемся в React",
-      "startTime": "2022-04-04T11:00:00+03:00",
-      "endTime": "2022-04-04T12:00:00+03:00",
-      "url": "https://it-course.online/course/react"
-    }
+    "homework": true
   },
   {
     "href": "lesson-09",

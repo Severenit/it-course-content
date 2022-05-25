@@ -64,7 +64,7 @@
   {
     "href": "lesson-08",
     "title": "Урок №8: Еще глубже в HOOKS",
-    "active": false,
+    "active": true,
     "homework": true
   },
   {

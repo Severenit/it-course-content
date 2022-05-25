@@ -12,4 +12,16 @@
 
 ![vimeo](https://vimeo.com/713297553)
 
+## 08.03 - useMemo
+
+![vimeo](https://vimeo.com/713622826)
+
+## 08.04 - useCallback
+
+![vimeo](https://vimeo.com/713640395)
+
+## 08.05 - useContext
+
+![vimeo](https://vimeo.com/7132927553)
+
 **UPD...***

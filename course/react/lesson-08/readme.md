@@ -20,8 +20,16 @@
 
 ![vimeo](https://vimeo.com/713640395)
 
-## 08.05 - useContext
+## 08.05 - React.forwardRef
 
-![vimeo](https://vimeo.com/7132927553)
+![vimeo](https://vimeo.com/714139684)
+
+## 08.06 - useImperativeHandle
+
+![vimeo](https://vimeo.com/714139979)
+
+## 08.07 - useContext
+
+![vimeo](https://vimeo.com/713641395)
 
 **UPD...***
